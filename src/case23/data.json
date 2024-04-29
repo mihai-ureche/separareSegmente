@@ -1,0 +1,6494 @@
+[
+  {
+    "_id": "6460510ed92a92edadff34cc",
+    "data": {
+      "latitude": 47.501303,
+      "longitude": 27.362475,
+      "altitude": 161,
+      "speed": 8.1,
+      "time": "2023-04-24T12:11:00.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 14.25
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3412",
+    "data": {
+      "latitude": 47.501286,
+      "longitude": 27.362458,
+      "altitude": 162,
+      "speed": 7.5,
+      "time": "2023-04-24T12:11:01.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 16.25
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34be",
+    "data": {
+      "latitude": 47.50127,
+      "longitude": 27.362451,
+      "altitude": 162,
+      "speed": 7.2,
+      "time": "2023-04-24T12:11:02.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 19.150000000000002
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34ce",
+    "data": {
+      "latitude": 47.501250999999996,
+      "longitude": 27.36245,
+      "altitude": 162,
+      "speed": 7.2,
+      "time": "2023-04-24T12:11:03.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 15.9
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34a0",
+    "data": {
+      "latitude": 47.501235,
+      "longitude": 27.362453,
+      "altitude": 162,
+      "speed": 6.6000000000000005,
+      "time": "2023-04-24T12:11:04.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 15.9
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34ca",
+    "data": {
+      "latitude": 47.501219999999996,
+      "longitude": 27.362461,
+      "altitude": 162,
+      "speed": 6.1000000000000005,
+      "time": "2023-04-24T12:11:05.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 13.350000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34b4",
+    "data": {
+      "latitude": 47.501208,
+      "longitude": 27.362472999999998,
+      "altitude": 162,
+      "speed": 5.5,
+      "time": "2023-04-24T12:11:06.000Z",
+      "engineSpeed": 1942,
+      "fuelRate": 14.25
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff340e",
+    "data": {
+      "latitude": 47.501197999999995,
+      "longitude": 27.362485,
+      "altitude": 162,
+      "speed": 4.6000000000000005,
+      "time": "2023-04-24T12:11:07.000Z",
+      "engineSpeed": 1947,
+      "fuelRate": 13.3
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3452",
+    "data": {
+      "latitude": 47.50119,
+      "longitude": 27.362496,
+      "altitude": 162,
+      "speed": 4.6000000000000005,
+      "time": "2023-04-24T12:11:08.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 14.05
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3474",
+    "data": {
+      "latitude": 47.501180999999995,
+      "longitude": 27.362508,
+      "altitude": 162,
+      "speed": 4.2,
+      "time": "2023-04-24T12:11:09.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 13.9
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3414",
+    "data": {
+      "latitude": 47.501172999999994,
+      "longitude": 27.362517999999998,
+      "altitude": 162,
+      "speed": 4,
+      "time": "2023-04-24T12:11:10.000Z",
+      "engineSpeed": 1942,
+      "fuelRate": 13.200000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3438",
+    "data": {
+      "latitude": 47.501165,
+      "longitude": 27.362527999999998,
+      "altitude": 162,
+      "speed": 4,
+      "time": "2023-04-24T12:11:11.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 13.9
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34c8",
+    "data": {
+      "latitude": 47.501158,
+      "longitude": 27.362537999999997,
+      "altitude": 162,
+      "speed": 4,
+      "time": "2023-04-24T12:11:12.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 11.950000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3436",
+    "data": {
+      "latitude": 47.501149999999996,
+      "longitude": 27.362546,
+      "altitude": 162,
+      "speed": 3.3000000000000003,
+      "time": "2023-04-24T12:11:13.000Z",
+      "engineSpeed": 1942,
+      "fuelRate": 12.200000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3418",
+    "data": {
+      "latitude": 47.501145,
+      "longitude": 27.362553,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:14.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 11.350000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3466",
+    "data": {
+      "latitude": 47.501141,
+      "longitude": 27.36256,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:15.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 10.9
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3482",
+    "data": {
+      "latitude": 47.501135999999995,
+      "longitude": 27.362565,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:16.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 11.75
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34a8",
+    "data": {
+      "latitude": 47.501131,
+      "longitude": 27.362571,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:17.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 11.4
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3426",
+    "data": {
+      "latitude": 47.501128,
+      "longitude": 27.362578,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:18.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 13.100000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff34c2",
+    "data": {
+      "latitude": 47.501123,
+      "longitude": 27.362586,
+      "altitude": 162,
+      "speed": 3.3000000000000003,
+      "time": "2023-04-24T12:11:19.000Z",
+      "engineSpeed": 1914,
+      "fuelRate": 14.15
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3468",
+    "data": {
+      "latitude": 47.501115,
+      "longitude": 27.362596,
+      "altitude": 162,
+      "speed": 5,
+      "time": "2023-04-24T12:11:20.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 12.600000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3460",
+    "data": {
+      "latitude": 47.501104999999995,
+      "longitude": 27.362606,
+      "altitude": 163,
+      "speed": 4.800000000000001,
+      "time": "2023-04-24T12:11:21.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 13.25
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff353e",
+    "data": {
+      "latitude": 47.501098,
+      "longitude": 27.362616,
+      "altitude": 163,
+      "speed": 3.8000000000000003,
+      "time": "2023-04-24T12:11:22.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 12.8
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35ca",
+    "data": {
+      "latitude": 47.50109,
+      "longitude": 27.362626,
+      "altitude": 163,
+      "speed": 3.7,
+      "time": "2023-04-24T12:11:23.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 12.450000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3548",
+    "data": {
+      "latitude": 47.501083,
+      "longitude": 27.362634999999997,
+      "altitude": 163,
+      "speed": 3.8000000000000003,
+      "time": "2023-04-24T12:11:24.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 12.25
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35e2",
+    "data": {
+      "latitude": 47.501075,
+      "longitude": 27.362643,
+      "altitude": 163,
+      "speed": 3.7,
+      "time": "2023-04-24T12:11:25.000Z",
+      "engineSpeed": 1946,
+      "fuelRate": 10.3
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3596",
+    "data": {
+      "latitude": 47.50107,
+      "longitude": 27.36265,
+      "altitude": 163,
+      "speed": 0,
+      "time": "2023-04-24T12:11:26.000Z",
+      "engineSpeed": 1947,
+      "fuelRate": 7.800000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff352a",
+    "data": {
+      "latitude": 47.50107,
+      "longitude": 27.36265,
+      "altitude": 163,
+      "speed": 0,
+      "time": "2023-04-24T12:11:27.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 8.950000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35c0",
+    "data": {
+      "latitude": 47.50107,
+      "longitude": 27.36265,
+      "altitude": 163,
+      "speed": 0,
+      "time": "2023-04-24T12:11:28.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 11.100000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff355a",
+    "data": {
+      "latitude": 47.50107,
+      "longitude": 27.36265,
+      "altitude": 163,
+      "speed": 0,
+      "time": "2023-04-24T12:11:29.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 10.55
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3544",
+    "data": {
+      "latitude": 47.501076,
+      "longitude": 27.36264,
+      "altitude": 163,
+      "speed": 3.5,
+      "time": "2023-04-24T12:11:30.000Z",
+      "engineSpeed": 1933,
+      "fuelRate": 10.950000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35b8",
+    "data": {
+      "latitude": 47.501083,
+      "longitude": 27.362627999999997,
+      "altitude": 163,
+      "speed": 4,
+      "time": "2023-04-24T12:11:31.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 10.5
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35d6",
+    "data": {
+      "latitude": 47.501090999999995,
+      "longitude": 27.362617999999998,
+      "altitude": 163,
+      "speed": 4,
+      "time": "2023-04-24T12:11:32.000Z",
+      "engineSpeed": 1942,
+      "fuelRate": 9.5
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3542",
+    "data": {
+      "latitude": 47.501101,
+      "longitude": 27.362610999999998,
+      "altitude": 163,
+      "speed": 3.8000000000000003,
+      "time": "2023-04-24T12:11:33.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 9.8
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3540",
+    "data": {
+      "latitude": 47.501110999999995,
+      "longitude": 27.362605,
+      "altitude": 162,
+      "speed": 3.8000000000000003,
+      "time": "2023-04-24T12:11:34.000Z",
+      "engineSpeed": 1947,
+      "fuelRate": 9.450000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3554",
+    "data": {
+      "latitude": 47.501121,
+      "longitude": 27.362600999999998,
+      "altitude": 162,
+      "speed": 3.5,
+      "time": "2023-04-24T12:11:35.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 8.4
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3532",
+    "data": {
+      "latitude": 47.501126,
+      "longitude": 27.362600999999998,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:36.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 7.9
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35dc",
+    "data": {
+      "latitude": 47.501126,
+      "longitude": 27.3626,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:37.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 11.5
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3584",
+    "data": {
+      "latitude": 47.501126,
+      "longitude": 27.3626,
+      "altitude": 162,
+      "speed": 0,
+      "time": "2023-04-24T12:11:38.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 18.95
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35d8",
+    "data": {
+      "latitude": 47.501118,
+      "longitude": 27.362585,
+      "altitude": 162,
+      "speed": 5.7,
+      "time": "2023-04-24T12:11:39.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 13.950000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3576",
+    "data": {
+      "latitude": 47.501110999999995,
+      "longitude": 27.362565999999998,
+      "altitude": 163,
+      "speed": 5.300000000000001,
+      "time": "2023-04-24T12:11:40.000Z",
+      "engineSpeed": 1941,
+      "fuelRate": 14
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3580",
+    "data": {
+      "latitude": 47.501106,
+      "longitude": 27.36255,
+      "altitude": 163,
+      "speed": 4.6000000000000005,
+      "time": "2023-04-24T12:11:41.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 11.75
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35ae",
+    "data": {
+      "latitude": 47.501104999999995,
+      "longitude": 27.362533,
+      "altitude": 163,
+      "speed": 3.5,
+      "time": "2023-04-24T12:11:42.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 10.950000000000001
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff35c8",
+    "data": {
+      "latitude": 47.501104999999995,
+      "longitude": 27.362523,
+      "altitude": 163,
+      "speed": 0,
+      "time": "2023-04-24T12:11:43.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 15.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3724",
+    "data": {
+      "latitude": 47.501106,
+      "longitude": 27.362508,
+      "altitude": 163,
+      "speed": 4.2,
+      "time": "2023-04-24T12:11:44.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 14.65
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36a8",
+    "data": {
+      "latitude": 47.501107999999995,
+      "longitude": 27.362489999999998,
+      "altitude": 163,
+      "speed": 5.5,
+      "time": "2023-04-24T12:11:45.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 12.450000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36f6",
+    "data": {
+      "latitude": 47.501115,
+      "longitude": 27.362472999999998,
+      "altitude": 163,
+      "speed": 5.300000000000001,
+      "time": "2023-04-24T12:11:46.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 12.200000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36fa",
+    "data": {
+      "latitude": 47.501123,
+      "longitude": 27.362455999999998,
+      "altitude": 163,
+      "speed": 5.300000000000001,
+      "time": "2023-04-24T12:11:47.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 13.65
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36f2",
+    "data": {
+      "latitude": 47.501129999999996,
+      "longitude": 27.36244,
+      "altitude": 163,
+      "speed": 4.800000000000001,
+      "time": "2023-04-24T12:11:48.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 15.700000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36ec",
+    "data": {
+      "latitude": 47.501135,
+      "longitude": 27.362423,
+      "altitude": 163,
+      "speed": 4.800000000000001,
+      "time": "2023-04-24T12:11:49.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 17.650000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3648",
+    "data": {
+      "latitude": 47.501135999999995,
+      "longitude": 27.362405,
+      "altitude": 163,
+      "speed": 5,
+      "time": "2023-04-24T12:11:50.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 19.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36b2",
+    "data": {
+      "latitude": 47.501135,
+      "longitude": 27.362381,
+      "altitude": 163,
+      "speed": 6.800000000000001,
+      "time": "2023-04-24T12:11:51.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 18.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36e6",
+    "data": {
+      "latitude": 47.501132999999996,
+      "longitude": 27.36236,
+      "altitude": 163,
+      "speed": 5.9,
+      "time": "2023-04-24T12:11:52.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 18.2
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff370c",
+    "data": {
+      "latitude": 47.501128,
+      "longitude": 27.36234,
+      "altitude": 163,
+      "speed": 5.300000000000001,
+      "time": "2023-04-24T12:11:53.000Z",
+      "engineSpeed": 1915,
+      "fuelRate": 19.3
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36ce",
+    "data": {
+      "latitude": 47.501121,
+      "longitude": 27.362320999999998,
+      "altitude": 163,
+      "speed": 5.5,
+      "time": "2023-04-24T12:11:54.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 19.150000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3640",
+    "data": {
+      "latitude": 47.501115999999996,
+      "longitude": 27.362302999999997,
+      "altitude": 163,
+      "speed": 5.5,
+      "time": "2023-04-24T12:11:55.000Z",
+      "engineSpeed": 1875,
+      "fuelRate": 27.650000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36b4",
+    "data": {
+      "latitude": 47.50111,
+      "longitude": 27.362281,
+      "altitude": 163,
+      "speed": 6.2,
+      "time": "2023-04-24T12:11:56.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 25.85
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36e8",
+    "data": {
+      "latitude": 47.501103,
+      "longitude": 27.362254999999998,
+      "altitude": 164,
+      "speed": 9,
+      "time": "2023-04-24T12:11:57.000Z",
+      "engineSpeed": 1918,
+      "fuelRate": 27.8
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b34",
+    "data": {
+      "latitude": 47.501093,
+      "longitude": 27.362225,
+      "altitude": 164,
+      "speed": 9,
+      "time": "2023-04-24T12:11:58.000Z",
+      "engineSpeed": 1878,
+      "fuelRate": 25.650000000000002
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b36",
+    "data": {
+      "latitude": 47.501084999999996,
+      "longitude": 27.362195,
+      "altitude": 164,
+      "speed": 8.700000000000001,
+      "time": "2023-04-24T12:11:59.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 26.05
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002abc",
+    "data": {
+      "latitude": 47.501075,
+      "longitude": 27.362164999999997,
+      "altitude": 164,
+      "speed": 8.700000000000001,
+      "time": "2023-04-24T12:12:00.000Z",
+      "engineSpeed": 1881,
+      "fuelRate": 24.950000000000003
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002abe",
+    "data": {
+      "latitude": 47.501065999999994,
+      "longitude": 27.362136,
+      "altitude": 165,
+      "speed": 8.5,
+      "time": "2023-04-24T12:12:01.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 25.3
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002ac0",
+    "data": {
+      "latitude": 47.501058,
+      "longitude": 27.362108,
+      "altitude": 165,
+      "speed": 8.3,
+      "time": "2023-04-24T12:12:02.000Z",
+      "engineSpeed": 1880,
+      "fuelRate": 23.05
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002ac2",
+    "data": {
+      "latitude": 47.501048,
+      "longitude": 27.36208,
+      "altitude": 165,
+      "speed": 8.5,
+      "time": "2023-04-24T12:12:03.000Z",
+      "engineSpeed": 1897,
+      "fuelRate": 26.700000000000003
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002ac4",
+    "data": {
+      "latitude": 47.501039999999996,
+      "longitude": 27.362047999999998,
+      "altitude": 165,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:12:04.000Z",
+      "engineSpeed": 1915,
+      "fuelRate": 30.35
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a4e",
+    "data": {
+      "latitude": 47.50103,
+      "longitude": 27.362015999999997,
+      "altitude": 166,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:12:05.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 32.75
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a54",
+    "data": {
+      "latitude": 47.50102,
+      "longitude": 27.361983,
+      "altitude": 166,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:12:06.000Z",
+      "engineSpeed": 1910,
+      "fuelRate": 32.4
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a56",
+    "data": {
+      "latitude": 47.501011,
+      "longitude": 27.36195,
+      "altitude": 166,
+      "speed": 10,
+      "time": "2023-04-24T12:12:07.000Z",
+      "engineSpeed": 1863,
+      "fuelRate": 25.8
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a58",
+    "data": {
+      "latitude": 47.501000999999995,
+      "longitude": 27.361915,
+      "altitude": 167,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:08.000Z",
+      "engineSpeed": 1875,
+      "fuelRate": 27.25
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a5a",
+    "data": {
+      "latitude": 47.500991,
+      "longitude": 27.361877999999997,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:12:09.000Z",
+      "engineSpeed": 1900,
+      "fuelRate": 28.8
+    }
+  },
+  {
+    "_id": "64605127d92a92edad002a0a",
+    "data": {
+      "latitude": 47.50098,
+      "longitude": 27.361841,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:12:10.000Z",
+      "engineSpeed": 1880,
+      "fuelRate": 30.6
+    }
+  },
+  {
+    "_id": "64605127d92a92edad002a0c",
+    "data": {
+      "latitude": 47.500969999999995,
+      "longitude": 27.361805,
+      "altitude": 167,
+      "speed": 10.5,
+      "time": "2023-04-24T12:12:11.000Z",
+      "engineSpeed": 1904,
+      "fuelRate": 25.400000000000002
+    }
+  },
+  {
+    "_id": "64605127d92a92edad002a0e",
+    "data": {
+      "latitude": 47.50096,
+      "longitude": 27.36177,
+      "altitude": 168,
+      "speed": 10.5,
+      "time": "2023-04-24T12:12:12.000Z",
+      "engineSpeed": 1883,
+      "fuelRate": 27.700000000000003
+    }
+  },
+  {
+    "_id": "64605127d92a92edad002a10",
+    "data": {
+      "latitude": 47.500949999999996,
+      "longitude": 27.361732999999997,
+      "altitude": 168,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:12:13.000Z",
+      "engineSpeed": 1893,
+      "fuelRate": 26.8
+    }
+  },
+  {
+    "_id": "64605127d92a92edad002a12",
+    "data": {
+      "latitude": 47.50094,
+      "longitude": 27.361694999999997,
+      "altitude": 168,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:12:14.000Z",
+      "engineSpeed": 1893,
+      "fuelRate": 24.700000000000003
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002aa8",
+    "data": {
+      "latitude": 47.500927999999995,
+      "longitude": 27.361655,
+      "altitude": 168,
+      "speed": 12,
+      "time": "2023-04-24T12:12:15.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 23.700000000000003
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002aac",
+    "data": {
+      "latitude": 47.500915,
+      "longitude": 27.361615,
+      "altitude": 168,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:12:16.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 23.150000000000002
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002aae",
+    "data": {
+      "latitude": 47.500904999999996,
+      "longitude": 27.361577999999998,
+      "altitude": 169,
+      "speed": 10.3,
+      "time": "2023-04-24T12:12:17.000Z",
+      "engineSpeed": 1913,
+      "fuelRate": 24.150000000000002
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002aaa",
+    "data": {
+      "latitude": 47.500895,
+      "longitude": 27.361541,
+      "altitude": 169,
+      "speed": 10.9,
+      "time": "2023-04-24T12:12:18.000Z",
+      "engineSpeed": 1915,
+      "fuelRate": 27.6
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002ab0",
+    "data": {
+      "latitude": 47.500882999999995,
+      "longitude": 27.361503,
+      "altitude": 169,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:12:19.000Z",
+      "engineSpeed": 1905,
+      "fuelRate": 24.35
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b04",
+    "data": {
+      "latitude": 47.500871,
+      "longitude": 27.361463,
+      "altitude": 169,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:12:20.000Z",
+      "engineSpeed": 1895,
+      "fuelRate": 23.400000000000002
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b06",
+    "data": {
+      "latitude": 47.500861,
+      "longitude": 27.361423,
+      "altitude": 169,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:12:21.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 22.75
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b08",
+    "data": {
+      "latitude": 47.50085,
+      "longitude": 27.361385,
+      "altitude": 169,
+      "speed": 11.4,
+      "time": "2023-04-24T12:12:22.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 20.75
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b0a",
+    "data": {
+      "latitude": 47.50084,
+      "longitude": 27.361345,
+      "altitude": 170,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:12:23.000Z",
+      "engineSpeed": 1902,
+      "fuelRate": 21.25
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b0c",
+    "data": {
+      "latitude": 47.50083,
+      "longitude": 27.361306,
+      "altitude": 170,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:12:24.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 22.200000000000003
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b20",
+    "data": {
+      "latitude": 47.50082,
+      "longitude": 27.361268,
+      "altitude": 170,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:12:25.000Z",
+      "engineSpeed": 1892,
+      "fuelRate": 22.55
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b22",
+    "data": {
+      "latitude": 47.500808,
+      "longitude": 27.36123,
+      "altitude": 170,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:12:26.000Z",
+      "engineSpeed": 1873,
+      "fuelRate": 21.55
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b24",
+    "data": {
+      "latitude": 47.500797999999996,
+      "longitude": 27.361189999999997,
+      "altitude": 170,
+      "speed": 11.4,
+      "time": "2023-04-24T12:12:27.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 25
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b26",
+    "data": {
+      "latitude": 47.500786,
+      "longitude": 27.361151,
+      "altitude": 170,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:12:28.000Z",
+      "engineSpeed": 1918,
+      "fuelRate": 23.950000000000003
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002b28",
+    "data": {
+      "latitude": 47.500775999999995,
+      "longitude": 27.361113,
+      "altitude": 170,
+      "speed": 11.4,
+      "time": "2023-04-24T12:12:29.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 19.400000000000002
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a94",
+    "data": {
+      "latitude": 47.500765,
+      "longitude": 27.361072999999998,
+      "altitude": 170,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:12:30.000Z",
+      "engineSpeed": 1888,
+      "fuelRate": 20.85
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a96",
+    "data": {
+      "latitude": 47.500755,
+      "longitude": 27.361036,
+      "altitude": 170,
+      "speed": 10.9,
+      "time": "2023-04-24T12:12:31.000Z",
+      "engineSpeed": 1886,
+      "fuelRate": 23.8
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a98",
+    "data": {
+      "latitude": 47.500743,
+      "longitude": 27.360998,
+      "altitude": 171,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:12:32.000Z",
+      "engineSpeed": 1900,
+      "fuelRate": 23.35
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a9a",
+    "data": {
+      "latitude": 47.500733,
+      "longitude": 27.36096,
+      "altitude": 171,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:12:33.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 23
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a9c",
+    "data": {
+      "latitude": 47.500721,
+      "longitude": 27.36092,
+      "altitude": 171,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:12:34.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 15.9
+    }
+  },
+  {
+    "_id": "64605128d92a92edad002a68",
+    "data": {
+      "latitude": 47.500710999999995,
+      "longitude": 27.360881,
+      "altitude": 171,
+      "speed": 10.3,
+      "time": "2023-04-24T12:12:35.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 15
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3686",
+    "data": {
+      "latitude": 47.500701,
+      "longitude": 27.360847999999997,
+      "altitude": 171,
+      "speed": 8.8,
+      "time": "2023-04-24T12:12:36.000Z",
+      "engineSpeed": 1903,
+      "fuelRate": 17.75
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3628",
+    "data": {
+      "latitude": 47.500693,
+      "longitude": 27.360815,
+      "altitude": 171,
+      "speed": 10,
+      "time": "2023-04-24T12:12:37.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 19.400000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36ae",
+    "data": {
+      "latitude": 47.500682999999995,
+      "longitude": 27.36078,
+      "altitude": 171,
+      "speed": 10.3,
+      "time": "2023-04-24T12:12:38.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 18.3
+    }
+  },
+  {
+    "_id": "6460510ed92a92edadff3632",
+    "data": {
+      "latitude": 47.500673,
+      "longitude": 27.360746,
+      "altitude": 171,
+      "speed": 9.8,
+      "time": "2023-04-24T12:12:39.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 20.6
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3698",
+    "data": {
+      "latitude": 47.500662999999996,
+      "longitude": 27.360709999999997,
+      "altitude": 171,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:12:40.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 19.400000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36ee",
+    "data": {
+      "latitude": 47.500653,
+      "longitude": 27.360673,
+      "altitude": 171,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:12:41.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 20.05
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff36ac",
+    "data": {
+      "latitude": 47.500640999999995,
+      "longitude": 27.360636,
+      "altitude": 171,
+      "speed": 10.5,
+      "time": "2023-04-24T12:12:42.000Z",
+      "engineSpeed": 1913,
+      "fuelRate": 19.450000000000003
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff363e",
+    "data": {
+      "latitude": 47.500633,
+      "longitude": 27.360601,
+      "altitude": 171,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:43.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 20.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3714",
+    "data": {
+      "latitude": 47.500623,
+      "longitude": 27.360564999999998,
+      "altitude": 171,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:44.000Z",
+      "engineSpeed": 1915,
+      "fuelRate": 21.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff371e",
+    "data": {
+      "latitude": 47.500613,
+      "longitude": 27.360529999999997,
+      "altitude": 171,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:45.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 21.400000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3be4",
+    "data": {
+      "latitude": 47.500603,
+      "longitude": 27.360495,
+      "altitude": 172,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:46.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 19.55
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c00",
+    "data": {
+      "latitude": 47.500592999999995,
+      "longitude": 27.360460999999997,
+      "altitude": 172,
+      "speed": 10,
+      "time": "2023-04-24T12:12:47.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 21.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff37ac",
+    "data": {
+      "latitude": 47.500583,
+      "longitude": 27.360426,
+      "altitude": 172,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:48.000Z",
+      "engineSpeed": 1911,
+      "fuelRate": 22.05
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bfc",
+    "data": {
+      "latitude": 47.500572999999996,
+      "longitude": 27.36039,
+      "altitude": 172,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:12:49.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 20.25
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c24",
+    "data": {
+      "latitude": 47.500563,
+      "longitude": 27.360355,
+      "altitude": 172,
+      "speed": 10.3,
+      "time": "2023-04-24T12:12:50.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 19.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bc2",
+    "data": {
+      "latitude": 47.500553,
+      "longitude": 27.360318,
+      "altitude": 172,
+      "speed": 10.3,
+      "time": "2023-04-24T12:12:51.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 21.200000000000003
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bc6",
+    "data": {
+      "latitude": 47.500543,
+      "longitude": 27.360283,
+      "altitude": 172,
+      "speed": 10.5,
+      "time": "2023-04-24T12:12:52.000Z",
+      "engineSpeed": 1922,
+      "fuelRate": 16.85
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff37a6",
+    "data": {
+      "latitude": 47.500533,
+      "longitude": 27.360248,
+      "altitude": 172,
+      "speed": 10.3,
+      "time": "2023-04-24T12:12:53.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 20.650000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bb2",
+    "data": {
+      "latitude": 47.500523,
+      "longitude": 27.360211,
+      "altitude": 172,
+      "speed": 10.5,
+      "time": "2023-04-24T12:12:54.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 19.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c06",
+    "data": {
+      "latitude": 47.500510999999996,
+      "longitude": 27.360176,
+      "altitude": 172,
+      "speed": 10.9,
+      "time": "2023-04-24T12:12:55.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 17.45
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3baa",
+    "data": {
+      "latitude": 47.500501,
+      "longitude": 27.360139999999998,
+      "altitude": 172,
+      "speed": 10,
+      "time": "2023-04-24T12:12:56.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 13.950000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff37a0",
+    "data": {
+      "latitude": 47.500493,
+      "longitude": 27.360108,
+      "altitude": 172,
+      "speed": 9,
+      "time": "2023-04-24T12:12:57.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 19.25
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bbe",
+    "data": {
+      "latitude": 47.500485999999995,
+      "longitude": 27.360073,
+      "altitude": 172,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:12:58.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 15.700000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c3a",
+    "data": {
+      "latitude": 47.500482999999996,
+      "longitude": 27.360038,
+      "altitude": 172,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:12:59.000Z",
+      "engineSpeed": 1913,
+      "fuelRate": 15.55
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c2c",
+    "data": {
+      "latitude": 47.500485999999995,
+      "longitude": 27.360003,
+      "altitude": 171,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:13:00.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 14.15
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c54",
+    "data": {
+      "latitude": 47.500495,
+      "longitude": 27.359970999999998,
+      "altitude": 171,
+      "speed": 9.4,
+      "time": "2023-04-24T12:13:01.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 15.55
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c16",
+    "data": {
+      "latitude": 47.500505999999994,
+      "longitude": 27.359939999999998,
+      "altitude": 171,
+      "speed": 9.8,
+      "time": "2023-04-24T12:13:02.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 13.450000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bae",
+    "data": {
+      "latitude": 47.500523,
+      "longitude": 27.359913,
+      "altitude": 171,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:13:03.000Z",
+      "engineSpeed": 1922,
+      "fuelRate": 13.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bea",
+    "data": {
+      "latitude": 47.50054,
+      "longitude": 27.359890999999998,
+      "altitude": 171,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:13:04.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 13.100000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff378a",
+    "data": {
+      "latitude": 47.50056,
+      "longitude": 27.359873,
+      "altitude": 171,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:13:05.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 13.100000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bce",
+    "data": {
+      "latitude": 47.500581,
+      "longitude": 27.359855999999997,
+      "altitude": 171,
+      "speed": 9,
+      "time": "2023-04-24T12:13:06.000Z",
+      "engineSpeed": 1918,
+      "fuelRate": 14.100000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3c1c",
+    "data": {
+      "latitude": 47.500603,
+      "longitude": 27.359845999999997,
+      "altitude": 171,
+      "speed": 9.4,
+      "time": "2023-04-24T12:13:07.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 15
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3bda",
+    "data": {
+      "latitude": 47.500626,
+      "longitude": 27.359849999999998,
+      "altitude": 171,
+      "speed": 9.4,
+      "time": "2023-04-24T12:13:08.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 15.450000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3d08",
+    "data": {
+      "latitude": 47.500645999999996,
+      "longitude": 27.359865,
+      "altitude": 171,
+      "speed": 9.4,
+      "time": "2023-04-24T12:13:09.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 16.150000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3d14",
+    "data": {
+      "latitude": 47.500661,
+      "longitude": 27.359887999999998,
+      "altitude": 171,
+      "speed": 9,
+      "time": "2023-04-24T12:13:10.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 16.3
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3cec",
+    "data": {
+      "latitude": 47.500675,
+      "longitude": 27.359913,
+      "altitude": 171,
+      "speed": 8.1,
+      "time": "2023-04-24T12:13:11.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 18.400000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3cde",
+    "data": {
+      "latitude": 47.500685999999995,
+      "longitude": 27.359939999999998,
+      "altitude": 171,
+      "speed": 8.700000000000001,
+      "time": "2023-04-24T12:13:12.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 18.35
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3cc4",
+    "data": {
+      "latitude": 47.500696,
+      "longitude": 27.359968,
+      "altitude": 171,
+      "speed": 8.700000000000001,
+      "time": "2023-04-24T12:13:13.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 20.3
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3d22",
+    "data": {
+      "latitude": 47.500706,
+      "longitude": 27.36,
+      "altitude": 171,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:13:14.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 18.95
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3cd2",
+    "data": {
+      "latitude": 47.500716,
+      "longitude": 27.360031,
+      "altitude": 171,
+      "speed": 9.8,
+      "time": "2023-04-24T12:13:15.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 19.200000000000003
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3d28",
+    "data": {
+      "latitude": 47.500726,
+      "longitude": 27.360065,
+      "altitude": 171,
+      "speed": 10,
+      "time": "2023-04-24T12:13:16.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 17.900000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3ccc",
+    "data": {
+      "latitude": 47.500735999999996,
+      "longitude": 27.360097999999997,
+      "altitude": 171,
+      "speed": 9.8,
+      "time": "2023-04-24T12:13:17.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 18.8
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3cfc",
+    "data": {
+      "latitude": 47.500746,
+      "longitude": 27.360132999999998,
+      "altitude": 171,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:18.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 17.8
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3d48",
+    "data": {
+      "latitude": 47.500755999999996,
+      "longitude": 27.360167999999998,
+      "altitude": 171,
+      "speed": 10,
+      "time": "2023-04-24T12:13:19.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 18.35
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3ca4",
+    "data": {
+      "latitude": 47.500766,
+      "longitude": 27.360203,
+      "altitude": 171,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:20.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 16.95
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e40",
+    "data": {
+      "latitude": 47.500775999999995,
+      "longitude": 27.360238,
+      "altitude": 171,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:21.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 16.400000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e02",
+    "data": {
+      "latitude": 47.500786,
+      "longitude": 27.360273,
+      "altitude": 171,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:22.000Z",
+      "engineSpeed": 1911,
+      "fuelRate": 15.450000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e4a",
+    "data": {
+      "latitude": 47.500797999999996,
+      "longitude": 27.360311,
+      "altitude": 171,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:13:23.000Z",
+      "engineSpeed": 1951,
+      "fuelRate": 13.8
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e0a",
+    "data": {
+      "latitude": 47.500808,
+      "longitude": 27.360346,
+      "altitude": 171,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:24.000Z",
+      "engineSpeed": 1947,
+      "fuelRate": 14
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3df2",
+    "data": {
+      "latitude": 47.50082,
+      "longitude": 27.360383,
+      "altitude": 171,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:25.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 15.100000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e62",
+    "data": {
+      "latitude": 47.50083,
+      "longitude": 27.360419999999998,
+      "altitude": 171,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:26.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 15.8
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e18",
+    "data": {
+      "latitude": 47.50084,
+      "longitude": 27.360456,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:27.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 12.850000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e54",
+    "data": {
+      "latitude": 47.50085,
+      "longitude": 27.360491,
+      "altitude": 170,
+      "speed": 9.8,
+      "time": "2023-04-24T12:13:28.000Z",
+      "engineSpeed": 1914,
+      "fuelRate": 16.8
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e78",
+    "data": {
+      "latitude": 47.500859999999996,
+      "longitude": 27.360526,
+      "altitude": 170,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:29.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 17.3
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e5a",
+    "data": {
+      "latitude": 47.500868,
+      "longitude": 27.360560999999997,
+      "altitude": 170,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:30.000Z",
+      "engineSpeed": 1946,
+      "fuelRate": 19
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3ddc",
+    "data": {
+      "latitude": 47.500879999999995,
+      "longitude": 27.360595999999997,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:31.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 15.25
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e6a",
+    "data": {
+      "latitude": 47.500887999999996,
+      "longitude": 27.360633,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:32.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 14.850000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3de4",
+    "data": {
+      "latitude": 47.500898,
+      "longitude": 27.36067,
+      "altitude": 170,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:13:33.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 16.85
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e20",
+    "data": {
+      "latitude": 47.50091,
+      "longitude": 27.360706,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:34.000Z",
+      "engineSpeed": 1896,
+      "fuelRate": 14.5
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e08",
+    "data": {
+      "latitude": 47.50092,
+      "longitude": 27.360743,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:35.000Z",
+      "engineSpeed": 1902,
+      "fuelRate": 14.850000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e14",
+    "data": {
+      "latitude": 47.500927999999995,
+      "longitude": 27.360778,
+      "altitude": 170,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:36.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 16.5
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3dee",
+    "data": {
+      "latitude": 47.500938,
+      "longitude": 27.360813,
+      "altitude": 170,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:37.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 16.25
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e36",
+    "data": {
+      "latitude": 47.500948,
+      "longitude": 27.36085,
+      "altitude": 170,
+      "speed": 10.9,
+      "time": "2023-04-24T12:13:38.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 17.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3dec",
+    "data": {
+      "latitude": 47.50096,
+      "longitude": 27.360885999999997,
+      "altitude": 169,
+      "speed": 10.9,
+      "time": "2023-04-24T12:13:39.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 14
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e0c",
+    "data": {
+      "latitude": 47.500969999999995,
+      "longitude": 27.360920999999998,
+      "altitude": 169,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:40.000Z",
+      "engineSpeed": 1911,
+      "fuelRate": 16.45
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e70",
+    "data": {
+      "latitude": 47.50098,
+      "longitude": 27.360958,
+      "altitude": 169,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:41.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 13.700000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e34",
+    "data": {
+      "latitude": 47.500989999999994,
+      "longitude": 27.360992999999997,
+      "altitude": 169,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:42.000Z",
+      "engineSpeed": 1913,
+      "fuelRate": 15.5
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3e22",
+    "data": {
+      "latitude": 47.501,
+      "longitude": 27.361027999999997,
+      "altitude": 169,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:43.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 16.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3de6",
+    "data": {
+      "latitude": 47.50101,
+      "longitude": 27.361062999999998,
+      "altitude": 169,
+      "speed": 10,
+      "time": "2023-04-24T12:13:44.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 18.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3f86",
+    "data": {
+      "latitude": 47.501017999999995,
+      "longitude": 27.361098,
+      "altitude": 169,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:45.000Z",
+      "engineSpeed": 1900,
+      "fuelRate": 17.35
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3f7a",
+    "data": {
+      "latitude": 47.501028,
+      "longitude": 27.361134999999997,
+      "altitude": 169,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:46.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 18.400000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f24",
+    "data": {
+      "latitude": 47.501038,
+      "longitude": 27.361169999999998,
+      "altitude": 169,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:47.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 17.1
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3f6c",
+    "data": {
+      "latitude": 47.501048,
+      "longitude": 27.361206,
+      "altitude": 168,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:13:48.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 15.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3f9e",
+    "data": {
+      "latitude": 47.501058,
+      "longitude": 27.361241,
+      "altitude": 168,
+      "speed": 10,
+      "time": "2023-04-24T12:13:49.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 17.45
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3fac",
+    "data": {
+      "latitude": 47.501068,
+      "longitude": 27.361276,
+      "altitude": 168,
+      "speed": 10.3,
+      "time": "2023-04-24T12:13:50.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 17.05
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3efa",
+    "data": {
+      "latitude": 47.501078,
+      "longitude": 27.361310999999997,
+      "altitude": 168,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:51.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 16.650000000000002
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f4e",
+    "data": {
+      "latitude": 47.501087999999996,
+      "longitude": 27.361348,
+      "altitude": 168,
+      "speed": 10.5,
+      "time": "2023-04-24T12:13:52.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 16.25
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3f70",
+    "data": {
+      "latitude": 47.501098,
+      "longitude": 27.361385,
+      "altitude": 168,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:13:53.000Z",
+      "engineSpeed": 1953,
+      "fuelRate": 13.600000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3faa",
+    "data": {
+      "latitude": 47.501107999999995,
+      "longitude": 27.361423,
+      "altitude": 167,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:13:54.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 11.8
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f22",
+    "data": {
+      "latitude": 47.501118,
+      "longitude": 27.361461,
+      "altitude": 167,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:13:55.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 10.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f30",
+    "data": {
+      "latitude": 47.501128,
+      "longitude": 27.361497999999997,
+      "altitude": 167,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:56.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 11.100000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f1e",
+    "data": {
+      "latitude": 47.501138,
+      "longitude": 27.361532999999998,
+      "altitude": 167,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:57.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 12.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3fa8",
+    "data": {
+      "latitude": 47.501148,
+      "longitude": 27.361568,
+      "altitude": 167,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:13:58.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 16.1
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f58",
+    "data": {
+      "latitude": 47.501158,
+      "longitude": 27.361606,
+      "altitude": 166,
+      "speed": 11.4,
+      "time": "2023-04-24T12:13:59.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 10.3
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f38",
+    "data": {
+      "latitude": 47.501168,
+      "longitude": 27.361642999999997,
+      "altitude": 166,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:14:00.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 11.75
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3ef8",
+    "data": {
+      "latitude": 47.501177999999996,
+      "longitude": 27.361680999999997,
+      "altitude": 166,
+      "speed": 10.9,
+      "time": "2023-04-24T12:14:01.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 11.200000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f28",
+    "data": {
+      "latitude": 47.50119,
+      "longitude": 27.361718,
+      "altitude": 165,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:14:02.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 10.9
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3f98",
+    "data": {
+      "latitude": 47.5012,
+      "longitude": 27.361755,
+      "altitude": 165,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:14:03.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 10.950000000000001
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3ee6",
+    "data": {
+      "latitude": 47.50121,
+      "longitude": 27.361791,
+      "altitude": 165,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:14:04.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 11.4
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3eec",
+    "data": {
+      "latitude": 47.501219999999996,
+      "longitude": 27.361825999999997,
+      "altitude": 164,
+      "speed": 10,
+      "time": "2023-04-24T12:14:05.000Z",
+      "engineSpeed": 1949,
+      "fuelRate": 13.15
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f42",
+    "data": {
+      "latitude": 47.501228,
+      "longitude": 27.361860999999998,
+      "altitude": 164,
+      "speed": 10.3,
+      "time": "2023-04-24T12:14:06.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 10.55
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3ef4",
+    "data": {
+      "latitude": 47.501238,
+      "longitude": 27.361898,
+      "altitude": 164,
+      "speed": 10.3,
+      "time": "2023-04-24T12:14:07.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 10.15
+    }
+  },
+  {
+    "_id": "6460510fd92a92edadff3f14",
+    "data": {
+      "latitude": 47.501248,
+      "longitude": 27.361933,
+      "altitude": 164,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:14:08.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 10.15
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff40b0",
+    "data": {
+      "latitude": 47.501258,
+      "longitude": 27.361967999999997,
+      "altitude": 163,
+      "speed": 10.3,
+      "time": "2023-04-24T12:14:09.000Z",
+      "engineSpeed": 1942,
+      "fuelRate": 8.6
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff40b4",
+    "data": {
+      "latitude": 47.501267999999996,
+      "longitude": 27.362,
+      "altitude": 163,
+      "speed": 9,
+      "time": "2023-04-24T12:14:10.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 9.200000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff3ffc",
+    "data": {
+      "latitude": 47.501278,
+      "longitude": 27.362029999999997,
+      "altitude": 163,
+      "speed": 8.3,
+      "time": "2023-04-24T12:14:11.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 10.25
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4080",
+    "data": {
+      "latitude": 47.501287999999995,
+      "longitude": 27.36206,
+      "altitude": 162,
+      "speed": 9,
+      "time": "2023-04-24T12:14:12.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 10.9
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4060",
+    "data": {
+      "latitude": 47.501301,
+      "longitude": 27.362085999999998,
+      "altitude": 162,
+      "speed": 9,
+      "time": "2023-04-24T12:14:13.000Z",
+      "engineSpeed": 1949,
+      "fuelRate": 9.65
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4030",
+    "data": {
+      "latitude": 47.50132,
+      "longitude": 27.362105,
+      "altitude": 162,
+      "speed": 8.5,
+      "time": "2023-04-24T12:14:14.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 10.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4066",
+    "data": {
+      "latitude": 47.50134,
+      "longitude": 27.362118,
+      "altitude": 161,
+      "speed": 8.8,
+      "time": "2023-04-24T12:14:15.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 9.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff402c",
+    "data": {
+      "latitude": 47.501360999999996,
+      "longitude": 27.362119999999997,
+      "altitude": 161,
+      "speed": 8.5,
+      "time": "2023-04-24T12:14:16.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 10.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff408a",
+    "data": {
+      "latitude": 47.501383,
+      "longitude": 27.362112999999997,
+      "altitude": 161,
+      "speed": 8.8,
+      "time": "2023-04-24T12:14:17.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 11.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4070",
+    "data": {
+      "latitude": 47.501401,
+      "longitude": 27.362099999999998,
+      "altitude": 161,
+      "speed": 8.3,
+      "time": "2023-04-24T12:14:18.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 12.950000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4000",
+    "data": {
+      "latitude": 47.501419999999996,
+      "longitude": 27.362083,
+      "altitude": 161,
+      "speed": 8.3,
+      "time": "2023-04-24T12:14:19.000Z",
+      "engineSpeed": 1957,
+      "fuelRate": 8.6
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff40a0",
+    "data": {
+      "latitude": 47.501436,
+      "longitude": 27.362064999999998,
+      "altitude": 160,
+      "speed": 8.1,
+      "time": "2023-04-24T12:14:20.000Z",
+      "engineSpeed": 1945,
+      "fuelRate": 13.450000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff408c",
+    "data": {
+      "latitude": 47.501450999999996,
+      "longitude": 27.362046,
+      "altitude": 160,
+      "speed": 7.7,
+      "time": "2023-04-24T12:14:21.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 8.35
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4076",
+    "data": {
+      "latitude": 47.501466,
+      "longitude": 27.362028,
+      "altitude": 160,
+      "speed": 7.5,
+      "time": "2023-04-24T12:14:22.000Z",
+      "engineSpeed": 1945,
+      "fuelRate": 10.9
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4094",
+    "data": {
+      "latitude": 47.501483,
+      "longitude": 27.362011,
+      "altitude": 160,
+      "speed": 8.1,
+      "time": "2023-04-24T12:14:23.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 11.5
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff404a",
+    "data": {
+      "latitude": 47.501498,
+      "longitude": 27.361991,
+      "altitude": 160,
+      "speed": 7.4,
+      "time": "2023-04-24T12:14:24.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 15.3
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4010",
+    "data": {
+      "latitude": 47.501506,
+      "longitude": 27.361966,
+      "altitude": 160,
+      "speed": 7.4,
+      "time": "2023-04-24T12:14:25.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 20.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4036",
+    "data": {
+      "latitude": 47.501509999999996,
+      "longitude": 27.361938,
+      "altitude": 160,
+      "speed": 8.1,
+      "time": "2023-04-24T12:14:26.000Z",
+      "engineSpeed": 1910,
+      "fuelRate": 19.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4064",
+    "data": {
+      "latitude": 47.501506,
+      "longitude": 27.361911,
+      "altitude": 160,
+      "speed": 7.5,
+      "time": "2023-04-24T12:14:27.000Z",
+      "engineSpeed": 1903,
+      "fuelRate": 21.150000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4050",
+    "data": {
+      "latitude": 47.501495999999996,
+      "longitude": 27.36189,
+      "altitude": 160,
+      "speed": 6.800000000000001,
+      "time": "2023-04-24T12:14:28.000Z",
+      "engineSpeed": 1896,
+      "fuelRate": 22.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff405e",
+    "data": {
+      "latitude": 47.501484999999995,
+      "longitude": 27.361873,
+      "altitude": 161,
+      "speed": 6.4,
+      "time": "2023-04-24T12:14:29.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 21.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff402e",
+    "data": {
+      "latitude": 47.501473,
+      "longitude": 27.36186,
+      "altitude": 161,
+      "speed": 5.9,
+      "time": "2023-04-24T12:14:30.000Z",
+      "engineSpeed": 1894,
+      "fuelRate": 25.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff400c",
+    "data": {
+      "latitude": 47.501463,
+      "longitude": 27.361839999999997,
+      "altitude": 161,
+      "speed": 7,
+      "time": "2023-04-24T12:14:31.000Z",
+      "engineSpeed": 1889,
+      "fuelRate": 25.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4058",
+    "data": {
+      "latitude": 47.501458,
+      "longitude": 27.361812999999998,
+      "altitude": 161,
+      "speed": 8.1,
+      "time": "2023-04-24T12:14:32.000Z",
+      "engineSpeed": 1913,
+      "fuelRate": 25.400000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff40ae",
+    "data": {
+      "latitude": 47.501459999999994,
+      "longitude": 27.361783,
+      "altitude": 161,
+      "speed": 7.9,
+      "time": "2023-04-24T12:14:33.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 22.1
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff415a",
+    "data": {
+      "latitude": 47.501458,
+      "longitude": 27.361755,
+      "altitude": 162,
+      "speed": 7.4,
+      "time": "2023-04-24T12:14:34.000Z",
+      "engineSpeed": 1885,
+      "fuelRate": 25.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff41a2",
+    "data": {
+      "latitude": 47.501455,
+      "longitude": 27.361729999999998,
+      "altitude": 162,
+      "speed": 7,
+      "time": "2023-04-24T12:14:35.000Z",
+      "engineSpeed": 1890,
+      "fuelRate": 28.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff419e",
+    "data": {
+      "latitude": 47.501446,
+      "longitude": 27.361704999999997,
+      "altitude": 162,
+      "speed": 7.9,
+      "time": "2023-04-24T12:14:36.000Z",
+      "engineSpeed": 1878,
+      "fuelRate": 28.6
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4168",
+    "data": {
+      "latitude": 47.501438,
+      "longitude": 27.361676,
+      "altitude": 162,
+      "speed": 8.700000000000001,
+      "time": "2023-04-24T12:14:37.000Z",
+      "engineSpeed": 1879,
+      "fuelRate": 30.35
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff41a4",
+    "data": {
+      "latitude": 47.50143,
+      "longitude": 27.361646,
+      "altitude": 163,
+      "speed": 8.8,
+      "time": "2023-04-24T12:14:38.000Z",
+      "engineSpeed": 1889,
+      "fuelRate": 29.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff417e",
+    "data": {
+      "latitude": 47.501419999999996,
+      "longitude": 27.361615999999998,
+      "altitude": 163,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:14:39.000Z",
+      "engineSpeed": 1875,
+      "fuelRate": 27.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4140",
+    "data": {
+      "latitude": 47.50141,
+      "longitude": 27.361583,
+      "altitude": 163,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:14:40.000Z",
+      "engineSpeed": 1878,
+      "fuelRate": 25.450000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4152",
+    "data": {
+      "latitude": 47.501401,
+      "longitude": 27.361549999999998,
+      "altitude": 163,
+      "speed": 9.8,
+      "time": "2023-04-24T12:14:41.000Z",
+      "engineSpeed": 1903,
+      "fuelRate": 26.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4150",
+    "data": {
+      "latitude": 47.501391,
+      "longitude": 27.361515999999998,
+      "altitude": 164,
+      "speed": 9.8,
+      "time": "2023-04-24T12:14:42.000Z",
+      "engineSpeed": 1885,
+      "fuelRate": 25.400000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4124",
+    "data": {
+      "latitude": 47.501383,
+      "longitude": 27.361483,
+      "altitude": 164,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:14:43.000Z",
+      "engineSpeed": 1914,
+      "fuelRate": 25.400000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff41ac",
+    "data": {
+      "latitude": 47.501373,
+      "longitude": 27.361445999999997,
+      "altitude": 164,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:14:44.000Z",
+      "engineSpeed": 1894,
+      "fuelRate": 24.1
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4182",
+    "data": {
+      "latitude": 47.501365,
+      "longitude": 27.36141,
+      "altitude": 164,
+      "speed": 10.3,
+      "time": "2023-04-24T12:14:45.000Z",
+      "engineSpeed": 1896,
+      "fuelRate": 23.3
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff414c",
+    "data": {
+      "latitude": 47.501355,
+      "longitude": 27.361373,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:14:46.000Z",
+      "engineSpeed": 1887,
+      "fuelRate": 23.950000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4100",
+    "data": {
+      "latitude": 47.501345,
+      "longitude": 27.361335,
+      "altitude": 165,
+      "speed": 10.5,
+      "time": "2023-04-24T12:14:47.000Z",
+      "engineSpeed": 1904,
+      "fuelRate": 22.150000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4112",
+    "data": {
+      "latitude": 47.501335999999995,
+      "longitude": 27.361297999999998,
+      "altitude": 165,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:14:48.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 27.450000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff411e",
+    "data": {
+      "latitude": 47.501326,
+      "longitude": 27.361262999999997,
+      "altitude": 165,
+      "speed": 10,
+      "time": "2023-04-24T12:14:49.000Z",
+      "engineSpeed": 1897,
+      "fuelRate": 27.150000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4148",
+    "data": {
+      "latitude": 47.501315999999996,
+      "longitude": 27.361227999999997,
+      "altitude": 166,
+      "speed": 10.5,
+      "time": "2023-04-24T12:14:50.000Z",
+      "engineSpeed": 1918,
+      "fuelRate": 24.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4178",
+    "data": {
+      "latitude": 47.501304999999995,
+      "longitude": 27.361193,
+      "altitude": 166,
+      "speed": 10.3,
+      "time": "2023-04-24T12:14:51.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 26.6
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4190",
+    "data": {
+      "latitude": 47.501295,
+      "longitude": 27.361155999999998,
+      "altitude": 166,
+      "speed": 10.9,
+      "time": "2023-04-24T12:14:52.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 24.150000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff410a",
+    "data": {
+      "latitude": 47.501284999999996,
+      "longitude": 27.361117999999998,
+      "altitude": 166,
+      "speed": 10.9,
+      "time": "2023-04-24T12:14:53.000Z",
+      "engineSpeed": 1888,
+      "fuelRate": 22.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff415c",
+    "data": {
+      "latitude": 47.501275,
+      "longitude": 27.361081,
+      "altitude": 166,
+      "speed": 10.9,
+      "time": "2023-04-24T12:14:54.000Z",
+      "engineSpeed": 1893,
+      "fuelRate": 23.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4160",
+    "data": {
+      "latitude": 47.501265,
+      "longitude": 27.361043,
+      "altitude": 167,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:14:55.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 21.6
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff411a",
+    "data": {
+      "latitude": 47.501255,
+      "longitude": 27.361006,
+      "altitude": 167,
+      "speed": 10.3,
+      "time": "2023-04-24T12:14:56.000Z",
+      "engineSpeed": 1891,
+      "fuelRate": 22.3
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4176",
+    "data": {
+      "latitude": 47.501245,
+      "longitude": 27.36097,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:14:57.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 23.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4186",
+    "data": {
+      "latitude": 47.501235,
+      "longitude": 27.360933,
+      "altitude": 167,
+      "speed": 10.9,
+      "time": "2023-04-24T12:14:58.000Z",
+      "engineSpeed": 1916,
+      "fuelRate": 21.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff423a",
+    "data": {
+      "latitude": 47.501222999999996,
+      "longitude": 27.360895,
+      "altitude": 167,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:14:59.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 19.700000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4214",
+    "data": {
+      "latitude": 47.501211,
+      "longitude": 27.360856,
+      "altitude": 167,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:15:00.000Z",
+      "engineSpeed": 1933,
+      "fuelRate": 21.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff429a",
+    "data": {
+      "latitude": 47.501200999999995,
+      "longitude": 27.360818,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:01.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 21.6
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff420a",
+    "data": {
+      "latitude": 47.501191,
+      "longitude": 27.360781,
+      "altitude": 168,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:02.000Z",
+      "engineSpeed": 1893,
+      "fuelRate": 20.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4240",
+    "data": {
+      "latitude": 47.50118,
+      "longitude": 27.360744999999998,
+      "altitude": 168,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:15:03.000Z",
+      "engineSpeed": 1891,
+      "fuelRate": 22.700000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4210",
+    "data": {
+      "latitude": 47.501169999999995,
+      "longitude": 27.360706,
+      "altitude": 168,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:04.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 24.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff41fc",
+    "data": {
+      "latitude": 47.50116,
+      "longitude": 27.360668,
+      "altitude": 168,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:15:05.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 23.450000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff429e",
+    "data": {
+      "latitude": 47.501149999999996,
+      "longitude": 27.36063,
+      "altitude": 168,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:15:06.000Z",
+      "engineSpeed": 1911,
+      "fuelRate": 22.85
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff42bc",
+    "data": {
+      "latitude": 47.501138,
+      "longitude": 27.360591,
+      "altitude": 168,
+      "speed": 10.9,
+      "time": "2023-04-24T12:15:07.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 15.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4270",
+    "data": {
+      "latitude": 47.501129999999996,
+      "longitude": 27.360557999999997,
+      "altitude": 168,
+      "speed": 9.4,
+      "time": "2023-04-24T12:15:08.000Z",
+      "engineSpeed": 1895,
+      "fuelRate": 20.200000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff41f8",
+    "data": {
+      "latitude": 47.50112,
+      "longitude": 27.360525,
+      "altitude": 168,
+      "speed": 9,
+      "time": "2023-04-24T12:15:09.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 20.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4232",
+    "data": {
+      "latitude": 47.501110999999995,
+      "longitude": 27.360492999999998,
+      "altitude": 169,
+      "speed": 9.8,
+      "time": "2023-04-24T12:15:10.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 21.950000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4264",
+    "data": {
+      "latitude": 47.501101,
+      "longitude": 27.36046,
+      "altitude": 169,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:11.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 21.950000000000003
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff422e",
+    "data": {
+      "latitude": 47.501090999999995,
+      "longitude": 27.360426,
+      "altitude": 169,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:12.000Z",
+      "engineSpeed": 1894,
+      "fuelRate": 20.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff425e",
+    "data": {
+      "latitude": 47.501083,
+      "longitude": 27.360391,
+      "altitude": 169,
+      "speed": 10,
+      "time": "2023-04-24T12:15:13.000Z",
+      "engineSpeed": 1895,
+      "fuelRate": 21.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff421e",
+    "data": {
+      "latitude": 47.501073,
+      "longitude": 27.360356,
+      "altitude": 169,
+      "speed": 10.3,
+      "time": "2023-04-24T12:15:14.000Z",
+      "engineSpeed": 1910,
+      "fuelRate": 21.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4260",
+    "data": {
+      "latitude": 47.501062999999995,
+      "longitude": 27.360321,
+      "altitude": 169,
+      "speed": 10.3,
+      "time": "2023-04-24T12:15:15.000Z",
+      "engineSpeed": 1922,
+      "fuelRate": 18.95
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4266",
+    "data": {
+      "latitude": 47.501053,
+      "longitude": 27.360286,
+      "altitude": 169,
+      "speed": 10,
+      "time": "2023-04-24T12:15:16.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 19.1
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff427a",
+    "data": {
+      "latitude": 47.501045,
+      "longitude": 27.360250999999998,
+      "altitude": 169,
+      "speed": 9.8,
+      "time": "2023-04-24T12:15:17.000Z",
+      "engineSpeed": 1902,
+      "fuelRate": 23.05
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4288",
+    "data": {
+      "latitude": 47.501033,
+      "longitude": 27.360215999999998,
+      "altitude": 169,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:18.000Z",
+      "engineSpeed": 1893,
+      "fuelRate": 22.5
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff42ac",
+    "data": {
+      "latitude": 47.501022999999996,
+      "longitude": 27.360180999999997,
+      "altitude": 170,
+      "speed": 10.3,
+      "time": "2023-04-24T12:15:19.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 22.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4234",
+    "data": {
+      "latitude": 47.501013,
+      "longitude": 27.360145,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:15:20.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 21.400000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4252",
+    "data": {
+      "latitude": 47.501003,
+      "longitude": 27.360108,
+      "altitude": 170,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:21.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 20.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4292",
+    "data": {
+      "latitude": 47.500993,
+      "longitude": 27.360070999999998,
+      "altitude": 170,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:15:22.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 19.650000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff423c",
+    "data": {
+      "latitude": 47.500983,
+      "longitude": 27.360032999999998,
+      "altitude": 170,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:15:23.000Z",
+      "engineSpeed": 1922,
+      "fuelRate": 17.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4776",
+    "data": {
+      "latitude": 47.500971,
+      "longitude": 27.359996,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:15:24.000Z",
+      "engineSpeed": 1898,
+      "fuelRate": 19.3
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4316",
+    "data": {
+      "latitude": 47.500961,
+      "longitude": 27.359958,
+      "altitude": 170,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:15:25.000Z",
+      "engineSpeed": 1946,
+      "fuelRate": 20.900000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4778",
+    "data": {
+      "latitude": 47.500951,
+      "longitude": 27.359921,
+      "altitude": 170,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:26.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 20.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4780",
+    "data": {
+      "latitude": 47.50094,
+      "longitude": 27.359885,
+      "altitude": 170,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:27.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 18.900000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4368",
+    "data": {
+      "latitude": 47.500931,
+      "longitude": 27.359849999999998,
+      "altitude": 170,
+      "speed": 10.3,
+      "time": "2023-04-24T12:15:28.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 16.1
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4320",
+    "data": {
+      "latitude": 47.500921,
+      "longitude": 27.359813,
+      "altitude": 170,
+      "speed": 10.3,
+      "time": "2023-04-24T12:15:29.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 16.900000000000002
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4304",
+    "data": {
+      "latitude": 47.500910999999995,
+      "longitude": 27.359778,
+      "altitude": 170,
+      "speed": 10,
+      "time": "2023-04-24T12:15:30.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 18.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4798",
+    "data": {
+      "latitude": 47.500904999999996,
+      "longitude": 27.359741,
+      "altitude": 170,
+      "speed": 10.5,
+      "time": "2023-04-24T12:15:31.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 15.25
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4324",
+    "data": {
+      "latitude": 47.500903,
+      "longitude": 27.359704999999998,
+      "altitude": 170,
+      "speed": 9.8,
+      "time": "2023-04-24T12:15:32.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 14.200000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4302",
+    "data": {
+      "latitude": 47.500907999999995,
+      "longitude": 27.359671,
+      "altitude": 170,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:33.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 13.3
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff432e",
+    "data": {
+      "latitude": 47.500921,
+      "longitude": 27.359641,
+      "altitude": 170,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:34.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 15.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff430a",
+    "data": {
+      "latitude": 47.500935999999996,
+      "longitude": 27.359613,
+      "altitude": 169,
+      "speed": 10,
+      "time": "2023-04-24T12:15:35.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 13.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4306",
+    "data": {
+      "latitude": 47.500952999999996,
+      "longitude": 27.359586,
+      "altitude": 169,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:36.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 12.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4766",
+    "data": {
+      "latitude": 47.500971,
+      "longitude": 27.359565,
+      "altitude": 169,
+      "speed": 9.4,
+      "time": "2023-04-24T12:15:37.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 12
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4792",
+    "data": {
+      "latitude": 47.500989999999994,
+      "longitude": 27.359543,
+      "altitude": 169,
+      "speed": 9.4,
+      "time": "2023-04-24T12:15:38.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 12.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff435e",
+    "data": {
+      "latitude": 47.501011,
+      "longitude": 27.359526,
+      "altitude": 169,
+      "speed": 9.4,
+      "time": "2023-04-24T12:15:39.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 12.25
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4774",
+    "data": {
+      "latitude": 47.501033,
+      "longitude": 27.359516,
+      "altitude": 169,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:40.000Z",
+      "engineSpeed": 1954,
+      "fuelRate": 13.600000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4764",
+    "data": {
+      "latitude": 47.501056,
+      "longitude": 27.359517999999998,
+      "altitude": 169,
+      "speed": 9.8,
+      "time": "2023-04-24T12:15:41.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 15.8
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff431e",
+    "data": {
+      "latitude": 47.501079999999995,
+      "longitude": 27.359531,
+      "altitude": 169,
+      "speed": 9.8,
+      "time": "2023-04-24T12:15:42.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 15.700000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff42f2",
+    "data": {
+      "latitude": 47.501098,
+      "longitude": 27.359551,
+      "altitude": 169,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:43.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 16.2
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff434e",
+    "data": {
+      "latitude": 47.501113,
+      "longitude": 27.359578,
+      "altitude": 169,
+      "speed": 9,
+      "time": "2023-04-24T12:15:44.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 16.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4300",
+    "data": {
+      "latitude": 47.501121,
+      "longitude": 27.359607999999998,
+      "altitude": 169,
+      "speed": 9,
+      "time": "2023-04-24T12:15:45.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 14
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4756",
+    "data": {
+      "latitude": 47.501128,
+      "longitude": 27.359634999999997,
+      "altitude": 169,
+      "speed": 7,
+      "time": "2023-04-24T12:15:46.000Z",
+      "engineSpeed": 1922,
+      "fuelRate": 17.1
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff476c",
+    "data": {
+      "latitude": 47.501132999999996,
+      "longitude": 27.359659999999998,
+      "altitude": 169,
+      "speed": 6.4,
+      "time": "2023-04-24T12:15:47.000Z",
+      "engineSpeed": 1916,
+      "fuelRate": 15.600000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4790",
+    "data": {
+      "latitude": 47.501138,
+      "longitude": 27.359686,
+      "altitude": 169,
+      "speed": 7.4,
+      "time": "2023-04-24T12:15:48.000Z",
+      "engineSpeed": 1920,
+      "fuelRate": 15.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff483c",
+    "data": {
+      "latitude": 47.501143,
+      "longitude": 27.359713,
+      "altitude": 169,
+      "speed": 7.7,
+      "time": "2023-04-24T12:15:49.000Z",
+      "engineSpeed": 1910,
+      "fuelRate": 19.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4828",
+    "data": {
+      "latitude": 47.501149999999996,
+      "longitude": 27.359745,
+      "altitude": 169,
+      "speed": 10,
+      "time": "2023-04-24T12:15:50.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 17.5
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff47ca",
+    "data": {
+      "latitude": 47.50116,
+      "longitude": 27.359778,
+      "altitude": 169,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:15:51.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 14.850000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4814",
+    "data": {
+      "latitude": 47.501171,
+      "longitude": 27.35981,
+      "altitude": 169,
+      "speed": 9.8,
+      "time": "2023-04-24T12:15:52.000Z",
+      "engineSpeed": 1949,
+      "fuelRate": 19.200000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff488a",
+    "data": {
+      "latitude": 47.501180999999995,
+      "longitude": 27.359842999999998,
+      "altitude": 169,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:15:53.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 17.35
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff485a",
+    "data": {
+      "latitude": 47.501191,
+      "longitude": 27.359876,
+      "altitude": 169,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:15:54.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 18.650000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff485c",
+    "data": {
+      "latitude": 47.501200999999995,
+      "longitude": 27.359911,
+      "altitude": 169,
+      "speed": 10,
+      "time": "2023-04-24T12:15:55.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 18.2
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4816",
+    "data": {
+      "latitude": 47.501211,
+      "longitude": 27.359948,
+      "altitude": 169,
+      "speed": 10.9,
+      "time": "2023-04-24T12:15:56.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 19.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4880",
+    "data": {
+      "latitude": 47.501221,
+      "longitude": 27.359987999999998,
+      "altitude": 169,
+      "speed": 11.4,
+      "time": "2023-04-24T12:15:57.000Z",
+      "engineSpeed": 1925,
+      "fuelRate": 17.25
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff47e8",
+    "data": {
+      "latitude": 47.501231,
+      "longitude": 27.360025999999998,
+      "altitude": 169,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:15:58.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 15.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4868",
+    "data": {
+      "latitude": 47.501241,
+      "longitude": 27.360065,
+      "altitude": 168,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:15:59.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 13.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4802",
+    "data": {
+      "latitude": 47.50125,
+      "longitude": 27.360101,
+      "altitude": 168,
+      "speed": 10.9,
+      "time": "2023-04-24T12:16:00.000Z",
+      "engineSpeed": 1916,
+      "fuelRate": 15.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff47ea",
+    "data": {
+      "latitude": 47.501261,
+      "longitude": 27.360141,
+      "altitude": 168,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:01.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 12.700000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff481e",
+    "data": {
+      "latitude": 47.501270999999996,
+      "longitude": 27.360177999999998,
+      "altitude": 168,
+      "speed": 10.9,
+      "time": "2023-04-24T12:16:02.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 15.3
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4824",
+    "data": {
+      "latitude": 47.501283,
+      "longitude": 27.360215,
+      "altitude": 168,
+      "speed": 10.5,
+      "time": "2023-04-24T12:16:03.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 15.450000000000001
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff47d0",
+    "data": {
+      "latitude": 47.501293,
+      "longitude": 27.360250999999998,
+      "altitude": 168,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:16:04.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 15.9
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff47f0",
+    "data": {
+      "latitude": 47.501304999999995,
+      "longitude": 27.36029,
+      "altitude": 168,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:05.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 13.3
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4856",
+    "data": {
+      "latitude": 47.501315,
+      "longitude": 27.360328,
+      "altitude": 168,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:06.000Z",
+      "engineSpeed": 1913,
+      "fuelRate": 16.75
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff47e4",
+    "data": {
+      "latitude": 47.501325,
+      "longitude": 27.360366,
+      "altitude": 167,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:07.000Z",
+      "engineSpeed": 1903,
+      "fuelRate": 14.55
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff480a",
+    "data": {
+      "latitude": 47.501335,
+      "longitude": 27.360405,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:16:08.000Z",
+      "engineSpeed": 1897,
+      "fuelRate": 13
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4804",
+    "data": {
+      "latitude": 47.501345,
+      "longitude": 27.36044,
+      "altitude": 167,
+      "speed": 10.5,
+      "time": "2023-04-24T12:16:09.000Z",
+      "engineSpeed": 1928,
+      "fuelRate": 21.3
+    }
+  },
+  {
+    "_id": "64605110d92a92edadff4806",
+    "data": {
+      "latitude": 47.501355,
+      "longitude": 27.360476,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:16:10.000Z",
+      "engineSpeed": 1914,
+      "fuelRate": 17.6
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4864",
+    "data": {
+      "latitude": 47.501365,
+      "longitude": 27.360515,
+      "altitude": 167,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:11.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 16.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff483e",
+    "data": {
+      "latitude": 47.501376,
+      "longitude": 27.360550999999997,
+      "altitude": 167,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:12.000Z",
+      "engineSpeed": 1916,
+      "fuelRate": 13.600000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4844",
+    "data": {
+      "latitude": 47.501386,
+      "longitude": 27.360591,
+      "altitude": 167,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:13.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 15.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4858",
+    "data": {
+      "latitude": 47.501396,
+      "longitude": 27.36063,
+      "altitude": 166,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:14.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 13.4
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff493a",
+    "data": {
+      "latitude": 47.501405999999996,
+      "longitude": 27.360666,
+      "altitude": 166,
+      "speed": 10.5,
+      "time": "2023-04-24T12:16:15.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 16.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff48ea",
+    "data": {
+      "latitude": 47.501416,
+      "longitude": 27.360705,
+      "altitude": 166,
+      "speed": 11.4,
+      "time": "2023-04-24T12:16:16.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 14.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4940",
+    "data": {
+      "latitude": 47.501428,
+      "longitude": 27.360743,
+      "altitude": 166,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:17.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 13.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff48e8",
+    "data": {
+      "latitude": 47.501438,
+      "longitude": 27.360781,
+      "altitude": 166,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:16:18.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 15.3
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4932",
+    "data": {
+      "latitude": 47.501447999999996,
+      "longitude": 27.360818,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:19.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 14.65
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff492e",
+    "data": {
+      "latitude": 47.501459999999994,
+      "longitude": 27.360856,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:20.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 14.450000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff492c",
+    "data": {
+      "latitude": 47.50147,
+      "longitude": 27.360895,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:21.000Z",
+      "engineSpeed": 1957,
+      "fuelRate": 14.700000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff48c4",
+    "data": {
+      "latitude": 47.50148,
+      "longitude": 27.360933,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:22.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 12.600000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff48d0",
+    "data": {
+      "latitude": 47.501490999999994,
+      "longitude": 27.36097,
+      "altitude": 165,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:16:23.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 16
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff493e",
+    "data": {
+      "latitude": 47.501501,
+      "longitude": 27.361006,
+      "altitude": 165,
+      "speed": 10.5,
+      "time": "2023-04-24T12:16:24.000Z",
+      "engineSpeed": 1897,
+      "fuelRate": 15.4
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff490e",
+    "data": {
+      "latitude": 47.501511,
+      "longitude": 27.361044999999997,
+      "altitude": 164,
+      "speed": 11.4,
+      "time": "2023-04-24T12:16:25.000Z",
+      "engineSpeed": 1954,
+      "fuelRate": 14.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff490c",
+    "data": {
+      "latitude": 47.501523,
+      "longitude": 27.361085,
+      "altitude": 164,
+      "speed": 11.4,
+      "time": "2023-04-24T12:16:26.000Z",
+      "engineSpeed": 1941,
+      "fuelRate": 11.600000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4944",
+    "data": {
+      "latitude": 47.501532999999995,
+      "longitude": 27.361123,
+      "altitude": 164,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:27.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 11.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff48be",
+    "data": {
+      "latitude": 47.501543,
+      "longitude": 27.361162999999998,
+      "altitude": 163,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:16:28.000Z",
+      "engineSpeed": 1933,
+      "fuelRate": 9.850000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4904",
+    "data": {
+      "latitude": 47.501553,
+      "longitude": 27.361203,
+      "altitude": 163,
+      "speed": 10.9,
+      "time": "2023-04-24T12:16:29.000Z",
+      "engineSpeed": 1934,
+      "fuelRate": 12.4
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4920",
+    "data": {
+      "latitude": 47.501565,
+      "longitude": 27.36124,
+      "altitude": 163,
+      "speed": 10.9,
+      "time": "2023-04-24T12:16:30.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 12.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff494a",
+    "data": {
+      "latitude": 47.501576,
+      "longitude": 27.361278,
+      "altitude": 163,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:16:31.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 15.450000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff498a",
+    "data": {
+      "latitude": 47.501585999999996,
+      "longitude": 27.361316,
+      "altitude": 162,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:16:32.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 12.450000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4976",
+    "data": {
+      "latitude": 47.501598,
+      "longitude": 27.361355999999997,
+      "altitude": 162,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:16:33.000Z",
+      "engineSpeed": 1949,
+      "fuelRate": 11.200000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff48ba",
+    "data": {
+      "latitude": 47.50161,
+      "longitude": 27.361396,
+      "altitude": 162,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:34.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 11.15
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4946",
+    "data": {
+      "latitude": 47.501619999999996,
+      "longitude": 27.361435,
+      "altitude": 161,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:16:35.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 10.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4956",
+    "data": {
+      "latitude": 47.501630999999996,
+      "longitude": 27.361473,
+      "altitude": 161,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:16:36.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 9.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4912",
+    "data": {
+      "latitude": 47.501641,
+      "longitude": 27.36151,
+      "altitude": 161,
+      "speed": 10.3,
+      "time": "2023-04-24T12:16:37.000Z",
+      "engineSpeed": 1941,
+      "fuelRate": 9.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4902",
+    "data": {
+      "latitude": 47.50165,
+      "longitude": 27.361545999999997,
+      "altitude": 160,
+      "speed": 10.5,
+      "time": "2023-04-24T12:16:38.000Z",
+      "engineSpeed": 1941,
+      "fuelRate": 11.15
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4916",
+    "data": {
+      "latitude": 47.50166,
+      "longitude": 27.361580999999997,
+      "altitude": 160,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:16:39.000Z",
+      "engineSpeed": 1945,
+      "fuelRate": 9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a3a",
+    "data": {
+      "latitude": 47.50167,
+      "longitude": 27.361615,
+      "altitude": 160,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:16:40.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 9.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a16",
+    "data": {
+      "latitude": 47.501681,
+      "longitude": 27.361645,
+      "altitude": 159,
+      "speed": 8.8,
+      "time": "2023-04-24T12:16:41.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 9.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff49ce",
+    "data": {
+      "latitude": 47.501695,
+      "longitude": 27.361673,
+      "altitude": 159,
+      "speed": 9.4,
+      "time": "2023-04-24T12:16:42.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 10.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a9a",
+    "data": {
+      "latitude": 47.501715,
+      "longitude": 27.361694999999997,
+      "altitude": 158,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:16:43.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 13.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff49ec",
+    "data": {
+      "latitude": 47.501736,
+      "longitude": 27.361703,
+      "altitude": 158,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:16:44.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 12.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a62",
+    "data": {
+      "latitude": 47.501760999999995,
+      "longitude": 27.361703,
+      "altitude": 158,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:16:45.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 12.600000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a98",
+    "data": {
+      "latitude": 47.501782999999996,
+      "longitude": 27.361694999999997,
+      "altitude": 158,
+      "speed": 9,
+      "time": "2023-04-24T12:16:46.000Z",
+      "engineSpeed": 1950,
+      "fuelRate": 13.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a6c",
+    "data": {
+      "latitude": 47.501802999999995,
+      "longitude": 27.36168,
+      "altitude": 158,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:16:47.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 16.85
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a52",
+    "data": {
+      "latitude": 47.501822999999995,
+      "longitude": 27.36166,
+      "altitude": 157,
+      "speed": 9,
+      "time": "2023-04-24T12:16:48.000Z",
+      "engineSpeed": 1914,
+      "fuelRate": 15.100000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff49be",
+    "data": {
+      "latitude": 47.50184,
+      "longitude": 27.361641,
+      "altitude": 157,
+      "speed": 8.700000000000001,
+      "time": "2023-04-24T12:16:49.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 13.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a56",
+    "data": {
+      "latitude": 47.501858,
+      "longitude": 27.361622999999998,
+      "altitude": 157,
+      "speed": 8.5,
+      "time": "2023-04-24T12:16:50.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 14.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a12",
+    "data": {
+      "latitude": 47.501872999999996,
+      "longitude": 27.361601,
+      "altitude": 157,
+      "speed": 8.5,
+      "time": "2023-04-24T12:16:51.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 14.15
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a1c",
+    "data": {
+      "latitude": 47.501883,
+      "longitude": 27.361575,
+      "altitude": 157,
+      "speed": 8.1,
+      "time": "2023-04-24T12:16:52.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 13.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a2c",
+    "data": {
+      "latitude": 47.501888,
+      "longitude": 27.361548,
+      "altitude": 157,
+      "speed": 7,
+      "time": "2023-04-24T12:16:53.000Z",
+      "engineSpeed": 1880,
+      "fuelRate": 19.950000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a54",
+    "data": {
+      "latitude": 47.501886,
+      "longitude": 27.361523,
+      "altitude": 157,
+      "speed": 7,
+      "time": "2023-04-24T12:16:54.000Z",
+      "engineSpeed": 1903,
+      "fuelRate": 22.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a46",
+    "data": {
+      "latitude": 47.501883,
+      "longitude": 27.361490999999997,
+      "altitude": 157,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:16:55.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 22.950000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a5a",
+    "data": {
+      "latitude": 47.501878,
+      "longitude": 27.361458,
+      "altitude": 158,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:16:56.000Z",
+      "engineSpeed": 1877,
+      "fuelRate": 28.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a08",
+    "data": {
+      "latitude": 47.501871,
+      "longitude": 27.361424999999997,
+      "altitude": 158,
+      "speed": 9.4,
+      "time": "2023-04-24T12:16:57.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 25.700000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a04",
+    "data": {
+      "latitude": 47.501863,
+      "longitude": 27.361393,
+      "altitude": 158,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:16:58.000Z",
+      "engineSpeed": 1894,
+      "fuelRate": 26.35
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a10",
+    "data": {
+      "latitude": 47.501853,
+      "longitude": 27.361362999999997,
+      "altitude": 158,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:16:59.000Z",
+      "engineSpeed": 1884,
+      "fuelRate": 27.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a1a",
+    "data": {
+      "latitude": 47.501841,
+      "longitude": 27.361331,
+      "altitude": 159,
+      "speed": 9.4,
+      "time": "2023-04-24T12:17:00.000Z",
+      "engineSpeed": 1897,
+      "fuelRate": 26.85
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a8e",
+    "data": {
+      "latitude": 47.501833,
+      "longitude": 27.3613,
+      "altitude": 159,
+      "speed": 9.4,
+      "time": "2023-04-24T12:17:01.000Z",
+      "engineSpeed": 1901,
+      "fuelRate": 28.650000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff49f2",
+    "data": {
+      "latitude": 47.501822999999995,
+      "longitude": 27.361268,
+      "altitude": 159,
+      "speed": 9.8,
+      "time": "2023-04-24T12:17:02.000Z",
+      "engineSpeed": 1893,
+      "fuelRate": 28.35
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a64",
+    "data": {
+      "latitude": 47.501815,
+      "longitude": 27.361233,
+      "altitude": 160,
+      "speed": 10,
+      "time": "2023-04-24T12:17:03.000Z",
+      "engineSpeed": 1900,
+      "fuelRate": 26.200000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4a2e",
+    "data": {
+      "latitude": 47.501805999999995,
+      "longitude": 27.361197999999998,
+      "altitude": 160,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:17:04.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 25.200000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b7a",
+    "data": {
+      "latitude": 47.501798,
+      "longitude": 27.361162999999998,
+      "altitude": 160,
+      "speed": 10,
+      "time": "2023-04-24T12:17:05.000Z",
+      "engineSpeed": 1855,
+      "fuelRate": 25.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4acc",
+    "data": {
+      "latitude": 47.50179,
+      "longitude": 27.361127999999997,
+      "altitude": 161,
+      "speed": 10.3,
+      "time": "2023-04-24T12:17:06.000Z",
+      "engineSpeed": 1911,
+      "fuelRate": 23.450000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4af6",
+    "data": {
+      "latitude": 47.50178,
+      "longitude": 27.361091,
+      "altitude": 161,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:07.000Z",
+      "engineSpeed": 1898,
+      "fuelRate": 26.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ada",
+    "data": {
+      "latitude": 47.50177,
+      "longitude": 27.361053,
+      "altitude": 161,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:17:08.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 22.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b52",
+    "data": {
+      "latitude": 47.50176,
+      "longitude": 27.361016,
+      "altitude": 161,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:09.000Z",
+      "engineSpeed": 1887,
+      "fuelRate": 21.700000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b34",
+    "data": {
+      "latitude": 47.50175,
+      "longitude": 27.360981,
+      "altitude": 161,
+      "speed": 10,
+      "time": "2023-04-24T12:17:10.000Z",
+      "engineSpeed": 1890,
+      "fuelRate": 23.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b2a",
+    "data": {
+      "latitude": 47.50174,
+      "longitude": 27.360944999999997,
+      "altitude": 162,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:11.000Z",
+      "engineSpeed": 1910,
+      "fuelRate": 23.950000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ae2",
+    "data": {
+      "latitude": 47.501729999999995,
+      "longitude": 27.360908,
+      "altitude": 162,
+      "speed": 10.3,
+      "time": "2023-04-24T12:17:12.000Z",
+      "engineSpeed": 1905,
+      "fuelRate": 25.200000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b3c",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360872999999998,
+      "altitude": 162,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:13.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 23
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4aee",
+    "data": {
+      "latitude": 47.501709999999996,
+      "longitude": 27.360836,
+      "altitude": 162,
+      "speed": 10.3,
+      "time": "2023-04-24T12:17:14.000Z",
+      "engineSpeed": 1886,
+      "fuelRate": 21.450000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b62",
+    "data": {
+      "latitude": 47.5017,
+      "longitude": 27.360798,
+      "altitude": 163,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:15.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 22.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b04",
+    "data": {
+      "latitude": 47.501689999999996,
+      "longitude": 27.360763,
+      "altitude": 163,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:17:16.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 21.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b14",
+    "data": {
+      "latitude": 47.50168,
+      "longitude": 27.360726,
+      "altitude": 163,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:17.000Z",
+      "engineSpeed": 1895,
+      "fuelRate": 21.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b82",
+    "data": {
+      "latitude": 47.50167,
+      "longitude": 27.360689999999998,
+      "altitude": 163,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:18.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 22.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4aea",
+    "data": {
+      "latitude": 47.50166,
+      "longitude": 27.360654999999998,
+      "altitude": 163,
+      "speed": 10.3,
+      "time": "2023-04-24T12:17:19.000Z",
+      "engineSpeed": 1891,
+      "fuelRate": 24.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b68",
+    "data": {
+      "latitude": 47.50165,
+      "longitude": 27.360618,
+      "altitude": 163,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:20.000Z",
+      "engineSpeed": 1874,
+      "fuelRate": 23.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b10",
+    "data": {
+      "latitude": 47.501639999999995,
+      "longitude": 27.36058,
+      "altitude": 164,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:17:21.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 23.35
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ac6",
+    "data": {
+      "latitude": 47.50163,
+      "longitude": 27.360543,
+      "altitude": 164,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:22.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 22.85
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b40",
+    "data": {
+      "latitude": 47.501618,
+      "longitude": 27.360505,
+      "altitude": 164,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:23.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 21.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4afe",
+    "data": {
+      "latitude": 47.501608,
+      "longitude": 27.360467999999997,
+      "altitude": 164,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:24.000Z",
+      "engineSpeed": 1930,
+      "fuelRate": 23.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b46",
+    "data": {
+      "latitude": 47.501598,
+      "longitude": 27.360431,
+      "altitude": 164,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:25.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 20.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b0c",
+    "data": {
+      "latitude": 47.501588,
+      "longitude": 27.360395,
+      "altitude": 165,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:26.000Z",
+      "engineSpeed": 1911,
+      "fuelRate": 22.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4aec",
+    "data": {
+      "latitude": 47.501576,
+      "longitude": 27.360357999999998,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:17:27.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 22.450000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4af8",
+    "data": {
+      "latitude": 47.501566,
+      "longitude": 27.360319999999998,
+      "altitude": 165,
+      "speed": 11.4,
+      "time": "2023-04-24T12:17:28.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 19.150000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4b06",
+    "data": {
+      "latitude": 47.501554999999996,
+      "longitude": 27.360281,
+      "altitude": 165,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:29.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 21.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c28",
+    "data": {
+      "latitude": 47.501545,
+      "longitude": 27.360243,
+      "altitude": 165,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:17:30.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 18.6
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c2a",
+    "data": {
+      "latitude": 47.501535999999994,
+      "longitude": 27.360205999999998,
+      "altitude": 165,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:31.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 21.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bbc",
+    "data": {
+      "latitude": 47.501525,
+      "longitude": 27.360167999999998,
+      "altitude": 165,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:32.000Z",
+      "engineSpeed": 1883,
+      "fuelRate": 23.900000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c0c",
+    "data": {
+      "latitude": 47.501515,
+      "longitude": 27.360129999999998,
+      "altitude": 166,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:17:33.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 23.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c54",
+    "data": {
+      "latitude": 47.501504999999995,
+      "longitude": 27.360093,
+      "altitude": 166,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:34.000Z",
+      "engineSpeed": 1906,
+      "fuelRate": 21.900000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bf4",
+    "data": {
+      "latitude": 47.501495,
+      "longitude": 27.360055,
+      "altitude": 166,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:17:35.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 21.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c2c",
+    "data": {
+      "latitude": 47.501483,
+      "longitude": 27.360015999999998,
+      "altitude": 166,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:17:36.000Z",
+      "engineSpeed": 1907,
+      "fuelRate": 22.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bbe",
+    "data": {
+      "latitude": 47.501473,
+      "longitude": 27.35998,
+      "altitude": 166,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:37.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 23.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bc0",
+    "data": {
+      "latitude": 47.501463,
+      "longitude": 27.359942999999998,
+      "altitude": 166,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:38.000Z",
+      "engineSpeed": 1899,
+      "fuelRate": 23.150000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c48",
+    "data": {
+      "latitude": 47.501450999999996,
+      "longitude": 27.359906,
+      "altitude": 166,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:39.000Z",
+      "engineSpeed": 1885,
+      "fuelRate": 21.400000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c46",
+    "data": {
+      "latitude": 47.501441,
+      "longitude": 27.359868,
+      "altitude": 167,
+      "speed": 11.4,
+      "time": "2023-04-24T12:17:40.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 21.950000000000003
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bea",
+    "data": {
+      "latitude": 47.501431,
+      "longitude": 27.35983,
+      "altitude": 167,
+      "speed": 10.5,
+      "time": "2023-04-24T12:17:41.000Z",
+      "engineSpeed": 1917,
+      "fuelRate": 23.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c4e",
+    "data": {
+      "latitude": 47.501419999999996,
+      "longitude": 27.359793,
+      "altitude": 167,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:42.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 22.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bfc",
+    "data": {
+      "latitude": 47.50141,
+      "longitude": 27.359755,
+      "altitude": 167,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:17:43.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 22.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4be2",
+    "data": {
+      "latitude": 47.501397999999995,
+      "longitude": 27.359714999999998,
+      "altitude": 167,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:17:44.000Z",
+      "engineSpeed": 1908,
+      "fuelRate": 17.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bc2",
+    "data": {
+      "latitude": 47.501388,
+      "longitude": 27.359676,
+      "altitude": 167,
+      "speed": 11.200000000000001,
+      "time": "2023-04-24T12:17:45.000Z",
+      "engineSpeed": 1918,
+      "fuelRate": 17.900000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c04",
+    "data": {
+      "latitude": 47.501377999999995,
+      "longitude": 27.359638,
+      "altitude": 167,
+      "speed": 11.100000000000001,
+      "time": "2023-04-24T12:17:46.000Z",
+      "engineSpeed": 1926,
+      "fuelRate": 22.3
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bda",
+    "data": {
+      "latitude": 47.501368,
+      "longitude": 27.359598,
+      "altitude": 167,
+      "speed": 11.600000000000001,
+      "time": "2023-04-24T12:17:47.000Z",
+      "engineSpeed": 1924,
+      "fuelRate": 16.35
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c14",
+    "data": {
+      "latitude": 47.501356,
+      "longitude": 27.35956,
+      "altitude": 167,
+      "speed": 10.9,
+      "time": "2023-04-24T12:17:48.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 18.650000000000002
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c1c",
+    "data": {
+      "latitude": 47.501346,
+      "longitude": 27.359523,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:49.000Z",
+      "engineSpeed": 1901,
+      "fuelRate": 19.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c42",
+    "data": {
+      "latitude": 47.501335999999995,
+      "longitude": 27.359486,
+      "altitude": 167,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:17:50.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 18.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bc4",
+    "data": {
+      "latitude": 47.501326,
+      "longitude": 27.359451,
+      "altitude": 167,
+      "speed": 10,
+      "time": "2023-04-24T12:17:51.000Z",
+      "engineSpeed": 1909,
+      "fuelRate": 15.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bce",
+    "data": {
+      "latitude": 47.50132,
+      "longitude": 27.359417999999998,
+      "altitude": 167,
+      "speed": 8.8,
+      "time": "2023-04-24T12:17:52.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 15.950000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4bd8",
+    "data": {
+      "latitude": 47.501318,
+      "longitude": 27.359382999999998,
+      "altitude": 167,
+      "speed": 9.4,
+      "time": "2023-04-24T12:17:53.000Z",
+      "engineSpeed": 1942,
+      "fuelRate": 13.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c38",
+    "data": {
+      "latitude": 47.501321,
+      "longitude": 27.35935,
+      "altitude": 167,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:17:54.000Z",
+      "engineSpeed": 1945,
+      "fuelRate": 14.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cbe",
+    "data": {
+      "latitude": 47.501329999999996,
+      "longitude": 27.359318,
+      "altitude": 167,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:17:55.000Z",
+      "engineSpeed": 1915,
+      "fuelRate": 14.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cc8",
+    "data": {
+      "latitude": 47.501345,
+      "longitude": 27.359289999999998,
+      "altitude": 167,
+      "speed": 9.8,
+      "time": "2023-04-24T12:17:56.000Z",
+      "engineSpeed": 1904,
+      "fuelRate": 14.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cca",
+    "data": {
+      "latitude": 47.501360999999996,
+      "longitude": 27.359264999999997,
+      "altitude": 167,
+      "speed": 9.4,
+      "time": "2023-04-24T12:17:57.000Z",
+      "engineSpeed": 1941,
+      "fuelRate": 14.450000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cb6",
+    "data": {
+      "latitude": 47.50138,
+      "longitude": 27.359244999999998,
+      "altitude": 167,
+      "speed": 9.4,
+      "time": "2023-04-24T12:17:58.000Z",
+      "engineSpeed": 1941,
+      "fuelRate": 14.100000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d28",
+    "data": {
+      "latitude": 47.5014,
+      "longitude": 27.359226,
+      "altitude": 167,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:17:59.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 12.100000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c84",
+    "data": {
+      "latitude": 47.501421,
+      "longitude": 27.359211,
+      "altitude": 166,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:18:00.000Z",
+      "engineSpeed": 1945,
+      "fuelRate": 12.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d0a",
+    "data": {
+      "latitude": 47.501442999999995,
+      "longitude": 27.359199999999998,
+      "altitude": 166,
+      "speed": 9.4,
+      "time": "2023-04-24T12:18:01.000Z",
+      "engineSpeed": 1931,
+      "fuelRate": 12.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cb0",
+    "data": {
+      "latitude": 47.501464999999996,
+      "longitude": 27.359195999999997,
+      "altitude": 166,
+      "speed": 9,
+      "time": "2023-04-24T12:18:02.000Z",
+      "engineSpeed": 1943,
+      "fuelRate": 15.450000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cf6",
+    "data": {
+      "latitude": 47.501487999999995,
+      "longitude": 27.359201,
+      "altitude": 166,
+      "speed": 9.4,
+      "time": "2023-04-24T12:18:03.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 14.600000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cfc",
+    "data": {
+      "latitude": 47.501508,
+      "longitude": 27.359219999999997,
+      "altitude": 166,
+      "speed": 10,
+      "time": "2023-04-24T12:18:04.000Z",
+      "engineSpeed": 1919,
+      "fuelRate": 12.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cd0",
+    "data": {
+      "latitude": 47.501525,
+      "longitude": 27.359243,
+      "altitude": 166,
+      "speed": 9,
+      "time": "2023-04-24T12:18:05.000Z",
+      "engineSpeed": 1929,
+      "fuelRate": 13.850000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cf4",
+    "data": {
+      "latitude": 47.501535999999994,
+      "longitude": 27.359272999999998,
+      "altitude": 166,
+      "speed": 9.4,
+      "time": "2023-04-24T12:18:06.000Z",
+      "engineSpeed": 1938,
+      "fuelRate": 15.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cf2",
+    "data": {
+      "latitude": 47.501543,
+      "longitude": 27.359305,
+      "altitude": 166,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:18:07.000Z",
+      "engineSpeed": 1923,
+      "fuelRate": 15.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cb2",
+    "data": {
+      "latitude": 47.501548,
+      "longitude": 27.359336,
+      "altitude": 166,
+      "speed": 8.5,
+      "time": "2023-04-24T12:18:08.000Z",
+      "engineSpeed": 1912,
+      "fuelRate": 14.350000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d02",
+    "data": {
+      "latitude": 47.501553,
+      "longitude": 27.359368,
+      "altitude": 166,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:18:09.000Z",
+      "engineSpeed": 1940,
+      "fuelRate": 16.8
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c9c",
+    "data": {
+      "latitude": 47.50156,
+      "longitude": 27.359405,
+      "altitude": 166,
+      "speed": 10.5,
+      "time": "2023-04-24T12:18:10.000Z",
+      "engineSpeed": 1937,
+      "fuelRate": 13.350000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ce2",
+    "data": {
+      "latitude": 47.501566,
+      "longitude": 27.35944,
+      "altitude": 166,
+      "speed": 9.8,
+      "time": "2023-04-24T12:18:11.000Z",
+      "engineSpeed": 1936,
+      "fuelRate": 14.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ca2",
+    "data": {
+      "latitude": 47.501574999999995,
+      "longitude": 27.359475,
+      "altitude": 166,
+      "speed": 10,
+      "time": "2023-04-24T12:18:12.000Z",
+      "engineSpeed": 1932,
+      "fuelRate": 14.450000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cc2",
+    "data": {
+      "latitude": 47.501580999999995,
+      "longitude": 27.359510999999998,
+      "altitude": 166,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:18:13.000Z",
+      "engineSpeed": 1921,
+      "fuelRate": 15.950000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4c9a",
+    "data": {
+      "latitude": 47.501591,
+      "longitude": 27.359545999999998,
+      "altitude": 166,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:18:14.000Z",
+      "engineSpeed": 1915,
+      "fuelRate": 14.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d16",
+    "data": {
+      "latitude": 47.501602999999996,
+      "longitude": 27.359581,
+      "altitude": 166,
+      "speed": 10.3,
+      "time": "2023-04-24T12:18:15.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 15.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d1e",
+    "data": {
+      "latitude": 47.501613,
+      "longitude": 27.359616,
+      "altitude": 166,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:18:16.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 14.850000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cea",
+    "data": {
+      "latitude": 47.501625,
+      "longitude": 27.359651,
+      "altitude": 166,
+      "speed": 10.5,
+      "time": "2023-04-24T12:18:17.000Z",
+      "engineSpeed": 1927,
+      "fuelRate": 13.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d08",
+    "data": {
+      "latitude": 47.501636,
+      "longitude": 27.359686,
+      "altitude": 165,
+      "speed": 10.700000000000001,
+      "time": "2023-04-24T12:18:18.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 12.100000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4cc6",
+    "data": {
+      "latitude": 47.501646,
+      "longitude": 27.359723,
+      "altitude": 165,
+      "speed": 10.5,
+      "time": "2023-04-24T12:18:19.000Z",
+      "engineSpeed": 1939,
+      "fuelRate": 12.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dae",
+    "data": {
+      "latitude": 47.501655,
+      "longitude": 27.359759999999998,
+      "altitude": 165,
+      "speed": 10.3,
+      "time": "2023-04-24T12:18:20.000Z",
+      "engineSpeed": 1947,
+      "fuelRate": 8.200000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d70",
+    "data": {
+      "latitude": 47.501664999999996,
+      "longitude": 27.359796,
+      "altitude": 165,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:18:21.000Z",
+      "engineSpeed": 1944,
+      "fuelRate": 10.350000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dc2",
+    "data": {
+      "latitude": 47.50167,
+      "longitude": 27.359833,
+      "altitude": 165,
+      "speed": 10.100000000000001,
+      "time": "2023-04-24T12:18:22.000Z",
+      "engineSpeed": 1957,
+      "fuelRate": 9.1
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d84",
+    "data": {
+      "latitude": 47.501670999999995,
+      "longitude": 27.359869999999997,
+      "altitude": 165,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:18:23.000Z",
+      "engineSpeed": 1951,
+      "fuelRate": 13.200000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d54",
+    "data": {
+      "latitude": 47.501673,
+      "longitude": 27.359904999999998,
+      "altitude": 165,
+      "speed": 9.200000000000001,
+      "time": "2023-04-24T12:18:24.000Z",
+      "engineSpeed": 1948,
+      "fuelRate": 11.350000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d6a",
+    "data": {
+      "latitude": 47.501673,
+      "longitude": 27.359939999999998,
+      "altitude": 164,
+      "speed": 9.600000000000001,
+      "time": "2023-04-24T12:18:25.000Z",
+      "engineSpeed": 1946,
+      "fuelRate": 12.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d7a",
+    "data": {
+      "latitude": 47.501673,
+      "longitude": 27.359976,
+      "altitude": 164,
+      "speed": 9.8,
+      "time": "2023-04-24T12:18:26.000Z",
+      "engineSpeed": 1935,
+      "fuelRate": 10.850000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4df6",
+    "data": {
+      "latitude": 47.501675,
+      "longitude": 27.360011,
+      "altitude": 164,
+      "speed": 9.4,
+      "time": "2023-04-24T12:18:27.000Z",
+      "engineSpeed": 1949,
+      "fuelRate": 11.65
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d92",
+    "data": {
+      "latitude": 47.50168,
+      "longitude": 27.360048,
+      "altitude": 164,
+      "speed": 10.3,
+      "time": "2023-04-24T12:18:28.000Z",
+      "engineSpeed": 1950,
+      "fuelRate": 10.100000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d62",
+    "data": {
+      "latitude": 47.501687999999994,
+      "longitude": 27.360086,
+      "altitude": 164,
+      "speed": 10.5,
+      "time": "2023-04-24T12:18:29.000Z",
+      "engineSpeed": 1955,
+      "fuelRate": 8.9
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dc0",
+    "data": {
+      "latitude": 47.501695999999995,
+      "longitude": 27.360121,
+      "altitude": 164,
+      "speed": 10,
+      "time": "2023-04-24T12:18:30.000Z",
+      "engineSpeed": 1946,
+      "fuelRate": 6.8500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dca",
+    "data": {
+      "latitude": 47.501705,
+      "longitude": 27.360151,
+      "altitude": 164,
+      "speed": 7.7,
+      "time": "2023-04-24T12:18:31.000Z",
+      "engineSpeed": 1950,
+      "fuelRate": 7.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e00",
+    "data": {
+      "latitude": 47.501711,
+      "longitude": 27.360174999999998,
+      "altitude": 164,
+      "speed": 5.7,
+      "time": "2023-04-24T12:18:32.000Z",
+      "engineSpeed": 1953,
+      "fuelRate": 6.95
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dc6",
+    "data": {
+      "latitude": 47.501715999999995,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 3.1,
+      "time": "2023-04-24T12:18:33.000Z",
+      "engineSpeed": 1947,
+      "fuelRate": 7.4
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dd4",
+    "data": {
+      "latitude": 47.501715999999995,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:34.000Z",
+      "engineSpeed": 1676,
+      "fuelRate": 0
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d64",
+    "data": {
+      "latitude": 47.501715999999995,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:35.000Z",
+      "engineSpeed": 1451,
+      "fuelRate": 4.65
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d74",
+    "data": {
+      "latitude": 47.501715999999995,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:36.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 4.55
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dee",
+    "data": {
+      "latitude": 47.501715999999995,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:37.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 4.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4de6",
+    "data": {
+      "latitude": 47.501715999999995,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:38.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 4.4
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4de0",
+    "data": {
+      "latitude": 47.501718,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:39.000Z",
+      "engineSpeed": 1464,
+      "fuelRate": 4.45
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d6c",
+    "data": {
+      "latitude": 47.501718,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:40.000Z",
+      "engineSpeed": 1466,
+      "fuelRate": 4.45
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d9e",
+    "data": {
+      "latitude": 47.501718,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:41.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 4.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dea",
+    "data": {
+      "latitude": 47.501718,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:42.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 4.45
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4d78",
+    "data": {
+      "latitude": 47.501718,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:43.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 4.6000000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4da8",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:44.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 4.65
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dfa",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:45.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 4.65
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4dba",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:46.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 4.800000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e40",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:47.000Z",
+      "engineSpeed": 1464,
+      "fuelRate": 4.800000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4eb4",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360186,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:48.000Z",
+      "engineSpeed": 1465,
+      "fuelRate": 4.7
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e3a",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:49.000Z",
+      "engineSpeed": 1463,
+      "fuelRate": 4.65
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4eae",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:50.000Z",
+      "engineSpeed": 1465,
+      "fuelRate": 4.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4eac",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:51.000Z",
+      "engineSpeed": 1466,
+      "fuelRate": 4.2
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e7c",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:52.000Z",
+      "engineSpeed": 1464,
+      "fuelRate": 4.15
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e82",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:53.000Z",
+      "engineSpeed": 1466,
+      "fuelRate": 4.05
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ed2",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:54.000Z",
+      "engineSpeed": 1463,
+      "fuelRate": 4.2
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ea8",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:55.000Z",
+      "engineSpeed": 1466,
+      "fuelRate": 4.15
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e5a",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:56.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 4.2
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4eaa",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:57.000Z",
+      "engineSpeed": 1464,
+      "fuelRate": 4.2
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4eba",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:58.000Z",
+      "engineSpeed": 1485,
+      "fuelRate": 2.6
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e60",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:18:59.000Z",
+      "engineSpeed": 1456,
+      "fuelRate": 5.4
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e3c",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:00.000Z",
+      "engineSpeed": 1463,
+      "fuelRate": 5.5
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4ea2",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:01.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e38",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:02.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.45
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e50",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:03.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4eca",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:04.000Z",
+      "engineSpeed": 1463,
+      "fuelRate": 5.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e52",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:05.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e76",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:06.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.45
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e7e",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:07.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e74",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:08.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e7a",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:09.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e8a",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:10.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e80",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:11.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.3500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4e64",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:12.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 6
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff534f",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:13.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff538b",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:14.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.9
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5315",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:15.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5353",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:16.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff538d",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:17.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff537b",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:18.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff530b",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:19.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.75
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5313",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:20.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5323",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:21.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff534d",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:22.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff530d",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:23.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4f06",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:24.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.9
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5335",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:25.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.75
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5341",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:26.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5309",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:27.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.9
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5347",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:28.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.800000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5361",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:29.000Z",
+      "engineSpeed": 1457,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5389",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:30.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff532f",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.36019,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:31.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff535f",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:32.000Z",
+      "engineSpeed": 1456,
+      "fuelRate": 5.65
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff533b",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:33.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.75
+    }
+  },
+  {
+    "_id": "64605111d92a92edadff4f04",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:34.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5367",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:35.000Z",
+      "engineSpeed": 1458,
+      "fuelRate": 5.75
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5349",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:36.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5395",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:37.000Z",
+      "engineSpeed": 1456,
+      "fuelRate": 5.9
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5445",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:38.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.8500000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53d5",
+    "data": {
+      "latitude": 47.50172,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:39.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53d7",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:40.000Z",
+      "engineSpeed": 1457,
+      "fuelRate": 5.7
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5459",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:41.000Z",
+      "engineSpeed": 1482,
+      "fuelRate": 3.6500000000000004
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53f1",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:42.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53c7",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:43.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff543d",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:44.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.15
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53df",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:45.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5447",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:46.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5461",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:47.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.2
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53c3",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:48.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff541d",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:49.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.2
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5413",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:50.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53c5",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:51.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5417",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:52.000Z",
+      "engineSpeed": 1461,
+      "fuelRate": 5.2
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5401",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:53.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.2
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff544d",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:54.000Z",
+      "engineSpeed": 1460,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff544b",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:55.000Z",
+      "engineSpeed": 1463,
+      "fuelRate": 5.300000000000001
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff545d",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:56.000Z",
+      "engineSpeed": 1463,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff543f",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:57.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff543b",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:58.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.25
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff53eb",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:19:59.000Z",
+      "engineSpeed": 1462,
+      "fuelRate": 5.1000000000000005
+    }
+  },
+  {
+    "_id": "64605112d92a92edadff5407",
+    "data": {
+      "latitude": 47.501720999999996,
+      "longitude": 27.360187999999997,
+      "altitude": 164,
+      "speed": 0,
+      "time": "2023-04-24T12:20:00.000Z",
+      "engineSpeed": 1459,
+      "fuelRate": 5.25
+    }
+  }
+]
